@@ -1,0 +1,4443 @@
+id,key,value,type
+81540665,highway,motorway_junction,regular
+81540665,ref,25,regular
+81582370,highway,traffic_signals,regular
+81582370,traffic_signals,signal,regular
+81582376,highway,traffic_signals,regular
+81582376,traffic_signals,signal,regular
+81635613,noref,yes,regular
+81635613,highway,motorway_junction,regular
+81645587,noref,yes,regular
+81645587,highway,motorway_junction,regular
+81647584,ref,26,regular
+81647584,highway,motorway_junction,regular
+81650619,ref,27A,regular
+81650619,exit_to,Galatyn Pkwy / Renner Rd.,regular
+81650619,highway,motorway_junction,regular
+81652630,ref,24,regular
+81652630,highway,motorway_junction,regular
+81655281,highway,turning_circle,regular
+81655476,noref,yes,regular
+81655476,highway,motorway_junction,regular
+81658440,highway,give_way,regular
+81661130,noref,yes,regular
+81661130,highway,motorway_junction,regular
+81662599,highway,traffic_signals,regular
+81668847,highway,turning_circle,regular
+81672077,highway,turning_circle,regular
+81673569,highway,turning_circle,regular
+81689442,highway,turning_circle,regular
+81690015,highway,turning_circle,regular
+81690995,highway,turning_circle,regular
+81691021,highway,turning_circle,regular
+81698361,highway,traffic_signals,regular
+81698366,highway,traffic_signals,regular
+81698523,highway,traffic_signals,regular
+81698526,highway,traffic_signals,regular
+81701512,highway,turning_circle,regular
+81704968,highway,turning_circle,regular
+81725933,highway,turning_circle,regular
+81731267,highway,turning_circle,regular
+81736019,highway,turning_circle,regular
+81742684,highway,traffic_signals,regular
+81742684,traffic_signals,signal,regular
+81742688,highway,traffic_signals,regular
+81742688,traffic_signals,signal,regular
+81742759,highway,traffic_signals,regular
+81742759,traffic_signals,signal,regular
+81744798,highway,turning_circle,regular
+81750095,highway,traffic_signals,regular
+81750095,traffic_signals,signal,regular
+81750205,highway,traffic_signals,regular
+81750205,traffic_signals,signal,regular
+81751439,highway,turning_circle,regular
+81763458,highway,turning_circle,regular
+81773237,highway,turning_circle,regular
+81803974,highway,turning_loop,regular
+81809317,highway,turning_circle,regular
+81811234,highway,traffic_signals,regular
+81812753,highway,turning_circle,regular
+81815737,highway,traffic_signals,regular
+81823621,highway,turning_circle,regular
+81826670,highway,turning_circle,regular
+81831787,highway,turning_circle,regular
+81832504,highway,turning_loop,regular
+81848824,highway,turning_circle,regular
+81853552,highway,turning_circle,regular
+81859286,highway,turning_circle,regular
+81859828,highway,turning_circle,regular
+81864264,highway,turning_circle,regular
+81868533,highway,turning_circle,regular
+81875015,highway,turning_circle,regular
+81881712,highway,turning_circle,regular
+81887507,highway,turning_circle,regular
+81906778,highway,turning_circle,regular
+81906948,highway,turning_circle,regular
+81912319,highway,turning_circle,regular
+81913599,highway,turning_circle,regular
+81915663,highway,turning_circle,regular
+81937234,highway,turning_loop,regular
+81939759,highway,turning_circle,regular
+81941235,highway,turning_loop,regular
+81952101,highway,turning_circle,regular
+81952111,highway,turning_circle,regular
+81967534,railway,level_crossing,regular
+81967569,railway,level_crossing,regular
+81967571,railway,level_crossing,regular
+81967573,railway,level_crossing,regular
+81976601,highway,traffic_signals,regular
+81976601,traffic_signals,signal,regular
+81980503,highway,turning_circle,regular
+81983371,highway,turning_circle,regular
+81983385,highway,turning_circle,regular
+81984600,highway,traffic_signals,regular
+81984600,traffic_signals,signal,regular
+81989771,highway,turning_circle,regular
+81992596,highway,turning_circle,regular
+81996860,highway,turning_circle,regular
+81998767,highway,turning_circle,regular
+82003430,highway,turning_circle,regular
+82004415,highway,turning_circle,regular
+82005134,railway,level_crossing,regular
+82012668,highway,traffic_signals,regular
+82021957,highway,turning_circle,regular
+82022863,highway,turning_circle,regular
+82022920,highway,turning_circle,regular
+82028161,highway,turning_circle,regular
+82030297,highway,turning_circle,regular
+82033401,highway,turning_circle,regular
+82037479,highway,turning_circle,regular
+82040008,highway,turning_circle,regular
+82042980,highway,turning_circle,regular
+82051054,highway,turning_circle,regular
+82053234,highway,turning_loop,regular
+82061462,railway,level_crossing,regular
+82066059,highway,turning_circle,regular
+82066239,highway,turning_circle,regular
+82075966,highway,turning_circle,regular
+82079851,highway,turning_circle,regular
+82088968,highway,turning_circle,regular
+82096360,highway,turning_circle,regular
+82097268,highway,turning_circle,regular
+82102054,highway,turning_circle,regular
+82113527,highway,turning_circle,regular
+82114066,highway,turning_circle,regular
+82115831,highway,turning_circle,regular
+82116808,highway,turning_circle,regular
+82118944,highway,turning_circle,regular
+82118998,highway,turning_circle,regular
+82119357,highway,turning_circle,regular
+82129056,highway,turning_circle,regular
+82129275,highway,turning_circle,regular
+82133960,highway,turning_circle,regular
+82139066,railway,level_crossing,regular
+82139073,railway,level_crossing,regular
+82140796,noref,yes,regular
+82140796,highway,motorway_junction,regular
+82147477,highway,turning_loop,regular
+82148422,highway,turning_circle,regular
+82148791,highway,turning_circle,regular
+82149867,highway,turning_circle,regular
+82159951,highway,turning_circle,regular
+82160765,railway,level_crossing,regular
+82160801,railway,level_crossing,regular
+82161717,highway,turning_circle,regular
+82166565,highway,turning_circle,regular
+82169174,highway,turning_circle,regular
+82174159,highway,turning_circle,regular
+82177707,highway,turning_circle,regular
+82178579,highway,turning_circle,regular
+82184442,highway,turning_circle,regular
+82185513,highway,turning_circle,regular
+82193518,highway,turning_circle,regular
+82195071,highway,turning_circle,regular
+82199546,highway,turning_circle,regular
+82205801,highway,turning_circle,regular
+82213140,highway,turning_circle,regular
+82213212,highway,turning_circle,regular
+82220896,highway,turning_circle,regular
+82232447,highway,turning_circle,regular
+82236749,highway,turning_circle,regular
+150046021,highway,turning_circle,regular
+150049349,ref,28A,regular
+150049349,highway,motorway_junction,regular
+150049456,highway,motorway_junction,regular
+150049549,ref,32A,regular
+150049549,highway,motorway_junction,regular
+150050953,highway,traffic_signals,regular
+150050953,traffic_signals,signal,regular
+150050955,highway,traffic_signals,regular
+150050955,traffic_signals,signal,regular
+150054606,noref,yes,regular
+150054606,highway,motorway_junction,regular
+150055290,ref,29,regular
+150055290,highway,motorway_junction,regular
+150055570,ref,32,regular
+150055570,highway,motorway_junction,regular
+150055931,highway,motorway_junction,regular
+150055931,left,US 75 South,ref
+150055931,right,US 75 North,ref
+150056364,ref,28B,regular
+150056364,highway,motorway_junction,regular
+150059650,ref,29A,regular
+150059650,highway,motorway_junction,regular
+150059665,ref,26,regular
+150059665,highway,motorway_junction,regular
+150060540,railway,level_crossing,regular
+150064848,noref,yes,regular
+150064848,highway,motorway_junction,regular
+150065250,highway,traffic_signals,regular
+150065250,traffic_signals,signal,regular
+150065252,highway,traffic_signals,regular
+150065252,traffic_signals,signal,regular
+150066348,highway,traffic_signals,regular
+150066348,traffic_signals,signal,regular
+150066620,noref,yes,regular
+150066620,highway,motorway_junction,regular
+150068200,highway,traffic_signals,regular
+150068200,traffic_signals,signal,regular
+150068219,noref,yes,regular
+150068219,highway,motorway_junction,regular
+150068223,noref,yes,regular
+150068223,highway,motorway_junction,regular
+150070886,noref,yes,regular
+150070886,highway,motorway_junction,regular
+150073209,ref,27,regular
+150073209,highway,motorway_junction,regular
+150075114,noref,yes,regular
+150075114,highway,motorway_junction,regular
+150075779,highway,turning_circle,regular
+150076136,noref,yes,regular
+150076136,highway,motorway_junction,regular
+150079602,noref,yes,regular
+150079602,highway,motorway_junction,regular
+150079619,noref,yes,regular
+150079619,highway,motorway_junction,regular
+150080207,noref,yes,regular
+150080207,highway,motorway_junction,regular
+150082653,ref,28B,regular
+150082653,highway,motorway_junction,regular
+150083188,ref,28A,regular
+150083188,highway,motorway_junction,regular
+150084025,barrier,toll_booth,regular
+150084025,operator,North Texas Tollway Authority,regular
+150084027,barrier,toll_booth,regular
+150084027,operator,North Texas Tollway Authority,regular
+150088882,highway,turning_circle,regular
+150090124,highway,turning_circle,regular
+150090316,highway,passing_place,regular
+150090375,highway,turning_circle,regular
+150090431,highway,turning_circle,regular
+150091025,highway,turning_circle,regular
+150091354,highway,turning_circle,regular
+150091470,highway,turning_circle,regular
+150091556,highway,turning_circle,regular
+150091822,highway,turning_circle,regular
+150092026,highway,turning_circle,regular
+150094380,highway,turning_circle,regular
+150094858,highway,turning_circle,regular
+150095958,highway,passing_place,regular
+150095961,highway,passing_place,regular
+150096273,highway,turning_circle,regular
+150097584,highway,turning_circle,regular
+150098001,highway,traffic_signals,regular
+150098003,highway,traffic_signals,regular
+150098029,highway,traffic_signals,regular
+150098185,railway,level_crossing,regular
+150098228,railway,level_crossing,regular
+150098261,railway,level_crossing,regular
+150098283,railway,level_crossing,regular
+150098295,railway,level_crossing,regular
+150098322,railway,level_crossing,regular
+150098337,railway,level_crossing,regular
+150099555,highway,passing_place,regular
+150099835,highway,turning_circle,regular
+150099985,highway,turning_circle,regular
+150099994,highway,turning_circle,regular
+150100019,highway,turning_circle,regular
+150100075,highway,turning_circle,regular
+150100346,highway,turning_circle,regular
+150100840,highway,turning_circle,regular
+150101091,highway,turning_circle,regular
+150101747,highway,turning_circle,regular
+150101758,highway,passing_place,regular
+150101823,highway,turning_circle,regular
+150103083,highway,turning_circle,regular
+150103186,highway,turning_circle,regular
+150103261,highway,passing_place,regular
+150103759,highway,turning_circle,regular
+150103993,highway,turning_circle,regular
+150104043,highway,turning_circle,regular
+150105198,highway,turning_circle,regular
+150105500,highway,turning_circle,regular
+150105631,highway,turning_circle,regular
+150105804,highway,turning_circle,regular
+150106600,railway,level_crossing,regular
+150106602,highway,traffic_signals,regular
+150106602,traffic_signals,signal,regular
+150106604,highway,traffic_signals,regular
+150106604,traffic_signals,signal,regular
+150107030,highway,turning_circle,regular
+150107363,highway,passing_place,regular
+150108551,highway,passing_place,regular
+150109133,highway,turning_circle,regular
+150109549,highway,turning_circle,regular
+150109913,highway,turning_circle,regular
+150109969,highway,passing_place,regular
+150110036,highway,turning_circle,regular
+150110247,highway,turning_circle,regular
+150110270,highway,turning_circle,regular
+150110324,highway,turning_circle,regular
+150111268,highway,turning_circle,regular
+150111341,highway,turning_circle,regular
+150111585,highway,turning_circle,regular
+150111751,highway,turning_circle,regular
+150112647,highway,turning_circle,regular
+150115185,highway,turning_circle,regular
+150115427,highway,turning_circle,regular
+150116161,highway,passing_place,regular
+150116349,highway,turning_circle,regular
+150116483,highway,turning_circle,regular
+150116793,highway,turning_circle,regular
+150116962,highway,turning_circle,regular
+150117004,highway,passing_place,regular
+150117820,highway,turning_circle,regular
+150118294,highway,turning_circle,regular
+150119214,highway,turning_circle,regular
+150119228,highway,turning_circle,regular
+150119425,highway,turning_circle,regular
+150119602,highway,turning_circle,regular
+150119773,highway,traffic_signals,regular
+150119773,traffic_signals,signal,regular
+150119776,highway,traffic_signals,regular
+150119776,traffic_signals,signal,regular
+150121050,highway,turning_circle,regular
+150121206,highway,turning_circle,regular
+150121550,highway,turning_circle,regular
+150122305,highway,turning_circle,regular
+150122311,highway,turning_circle,regular
+150122330,highway,turning_circle,regular
+150122767,highway,passing_place,regular
+150122857,highway,passing_place,regular
+150122871,highway,turning_circle,regular
+150122935,highway,turning_circle,regular
+150123469,highway,turning_circle,regular
+150124319,highway,turning_circle,regular
+150124481,highway,turning_circle,regular
+150124500,highway,turning_circle,regular
+150125357,highway,turning_circle,regular
+150125795,highway,turning_circle,regular
+150126498,highway,turning_circle,regular
+150127046,highway,turning_circle,regular
+150127903,highway,turning_circle,regular
+150128184,highway,turning_circle,regular
+150128352,highway,turning_circle,regular
+150129312,highway,turning_circle,regular
+150129753,highway,turning_circle,regular
+150132427,highway,traffic_signals,regular
+150132427,traffic_signals,signal,regular
+150132436,highway,traffic_signals,regular
+150132436,traffic_signals,signal,regular
+150132449,railway,level_crossing,regular
+150132848,highway,turning_circle,regular
+150132887,highway,turning_circle,regular
+150133538,highway,turning_circle,regular
+150134026,highway,turning_circle,regular
+150135468,highway,turning_circle,regular
+150135862,highway,turning_circle,regular
+150138362,highway,turning_circle,regular
+150138531,highway,turning_circle,regular
+150139482,highway,turning_circle,regular
+150140281,highway,turning_circle,regular
+150140862,highway,turning_circle,regular
+150141083,highway,turning_circle,regular
+150141141,highway,turning_circle,regular
+150141494,highway,turning_circle,regular
+150141774,highway,turning_circle,regular
+150142310,highway,turning_circle,regular
+150142319,highway,turning_circle,regular
+150143007,highway,turning_circle,regular
+150143374,highway,turning_circle,regular
+150143832,highway,turning_circle,regular
+150144209,highway,turning_circle,regular
+150145008,highway,passing_place,regular
+150145050,highway,turning_circle,regular
+150145403,highway,turning_circle,regular
+150145805,highway,turning_circle,regular
+150146634,highway,turning_circle,regular
+150147051,highway,turning_circle,regular
+150148222,highway,turning_circle,regular
+150148641,highway,turning_circle,regular
+150149028,highway,turning_circle,regular
+150149395,highway,turning_circle,regular
+150149459,highway,turning_circle,regular
+150150003,highway,traffic_signals,regular
+150150003,traffic_signals,signal,regular
+150150005,highway,traffic_signals,regular
+150150005,traffic_signals,signal,regular
+150150056,highway,traffic_signals,regular
+150150056,traffic_signals,signal,regular
+150150059,highway,traffic_signals,regular
+150150059,traffic_signals,signal,regular
+150151464,highway,turning_circle,regular
+150151488,highway,turning_circle,regular
+150151748,highway,turning_circle,regular
+150152900,highway,turning_circle,regular
+150153881,highway,passing_place,regular
+150153890,highway,turning_circle,regular
+150154485,highway,traffic_signals,regular
+150154485,crossing,traffic_signals,regular
+150154832,highway,turning_circle,regular
+150154895,highway,turning_circle,regular
+150155483,highway,turning_circle,regular
+150156067,highway,turning_circle,regular
+150157497,highway,turning_circle,regular
+150158925,highway,turning_circle,regular
+150159396,highway,turning_circle,regular
+150159404,highway,turning_circle,regular
+150159410,highway,turning_circle,regular
+150159612,highway,turning_circle,regular
+150159781,highway,turning_circle,regular
+150159791,highway,turning_circle,regular
+150160181,highway,turning_circle,regular
+150160605,highway,turning_circle,regular
+150160626,highway,turning_circle,regular
+150161322,highway,turning_circle,regular
+150161413,highway,turning_circle,regular
+150163227,highway,turning_circle,regular
+150163305,highway,turning_circle,regular
+150163453,highway,turning_circle,regular
+150163797,railway,level_crossing,regular
+150164353,highway,turning_circle,regular
+150164948,highway,turning_circle,regular
+150165089,highway,turning_circle,regular
+150165460,highway,turning_circle,regular
+150166592,highway,turning_circle,regular
+150166730,highway,turning_circle,regular
+150167097,highway,turning_circle,regular
+150167205,highway,turning_circle,regular
+150167925,highway,turning_circle,regular
+150168125,highway,turning_circle,regular
+150168560,highway,traffic_signals,regular
+150168560,crossing,traffic_signals,regular
+150169171,highway,turning_circle,regular
+150170256,highway,turning_circle,regular
+150170312,highway,turning_circle,regular
+150170810,highway,turning_circle,regular
+150171190,highway,turning_circle,regular
+150171205,highway,turning_circle,regular
+150171214,highway,turning_circle,regular
+150171792,highway,turning_circle,regular
+150171873,highway,passing_place,regular
+150172133,highway,turning_circle,regular
+150172306,highway,turning_circle,regular
+150172602,highway,turning_circle,regular
+150173844,highway,turning_circle,regular
+150174035,highway,traffic_signals,regular
+150174101,highway,traffic_signals,regular
+150174105,highway,traffic_signals,regular
+150174174,railway,level_crossing,regular
+150174227,highway,turning_circle,regular
+150174242,highway,turning_circle,regular
+150174735,highway,turning_circle,regular
+150175114,highway,turning_circle,regular
+150175711,highway,turning_circle,regular
+150176054,highway,turning_circle,regular
+150176184,highway,turning_loop,regular
+150176367,highway,turning_circle,regular
+150177096,highway,turning_circle,regular
+150177100,highway,turning_circle,regular
+150177125,highway,turning_circle,regular
+150177593,highway,turning_circle,regular
+150179128,highway,turning_circle,regular
+150179392,highway,passing_place,regular
+150179395,highway,turning_circle,regular
+150179733,highway,turning_circle,regular
+150180844,highway,turning_circle,regular
+150181260,highway,turning_circle,regular
+150181450,highway,turning_circle,regular
+150181464,highway,passing_place,regular
+150182688,highway,turning_circle,regular
+150182828,highway,turning_circle,regular
+150183451,highway,turning_circle,regular
+150183649,highway,turning_circle,regular
+150183660,highway,turning_circle,regular
+150184139,highway,turning_circle,regular
+150184143,highway,turning_circle,regular
+150184591,highway,turning_circle,regular
+150184885,highway,turning_circle,regular
+150184887,highway,turning_circle,regular
+150184919,highway,turning_circle,regular
+150184986,highway,turning_circle,regular
+150185061,railway,level_crossing,regular
+150185261,highway,turning_circle,regular
+150185271,highway,turning_circle,regular
+150185436,highway,turning_circle,regular
+150188106,highway,turning_circle,regular
+150188112,highway,turning_circle,regular
+150188721,highway,turning_circle,regular
+150188762,highway,turning_circle,regular
+150188955,highway,turning_circle,regular
+150189048,highway,turning_circle,regular
+150189388,highway,passing_place,regular
+150189428,highway,turning_circle,regular
+150189495,highway,turning_circle,regular
+150189548,highway,turning_circle,regular
+150189572,highway,turning_circle,regular
+150189586,highway,turning_circle,regular
+150189876,highway,passing_place,regular
+150191734,highway,traffic_signals,regular
+150191734,traffic_signals,signal,regular
+150191760,railway,level_crossing,regular
+150191779,highway,traffic_signals,regular
+150191779,traffic_signals,signal,regular
+150191781,highway,traffic_signals,regular
+150191781,traffic_signals,signal,regular
+150191839,highway,traffic_signals,regular
+150191839,traffic_signals,signal,regular
+150191841,highway,traffic_signals,regular
+150191841,traffic_signals,signal,regular
+150191864,highway,traffic_signals,regular
+150191864,crossing,traffic_signals,regular
+150191866,highway,traffic_signals,regular
+150191866,traffic_signals,signal,regular
+150191868,highway,traffic_signals,regular
+150191868,traffic_signals,signal,regular
+150191954,highway,traffic_signals,regular
+150191954,traffic_signals,signal,regular
+150191956,highway,traffic_signals,regular
+150191956,traffic_signals,signal,regular
+150192218,highway,traffic_signals,regular
+150192218,traffic_signals,signal,regular
+150192220,highway,traffic_signals,regular
+150192220,traffic_signals,signal,regular
+150192294,highway,traffic_signals,regular
+150192294,crossing,traffic_signals,regular
+150192295,highway,traffic_signals,regular
+150192295,traffic_signals,signal,regular
+150192296,highway,traffic_signals,regular
+150192296,traffic_signals,signal,regular
+150192309,highway,traffic_signals,regular
+150192309,traffic_signals,signal,regular
+150192311,highway,traffic_signals,regular
+150192311,traffic_signals,signal,regular
+150192356,highway,traffic_signals,regular
+150192356,traffic_signals,signal,regular
+150192358,highway,traffic_signals,regular
+150192358,traffic_signals,signal,regular
+150192368,railway,level_crossing,regular
+150192395,highway,traffic_signals,regular
+150192395,traffic_signals,signal,regular
+150192397,highway,traffic_signals,regular
+150192397,traffic_signals,signal,regular
+150192873,highway,turning_circle,regular
+150192891,highway,turning_circle,regular
+150193148,highway,turning_circle,regular
+150193345,highway,turning_circle,regular
+150193492,highway,turning_circle,regular
+150193565,highway,turning_circle,regular
+150194430,highway,turning_circle,regular
+150194798,highway,turning_circle,regular
+150195034,highway,turning_circle,regular
+150195135,highway,turning_circle,regular
+150195568,highway,turning_circle,regular
+150195672,highway,turning_circle,regular
+150195676,highway,turning_circle,regular
+150195739,highway,turning_circle,regular
+150196477,highway,turning_circle,regular
+150197181,highway,turning_circle,regular
+150197202,highway,turning_circle,regular
+150197361,highway,passing_place,regular
+150198748,highway,turning_circle,regular
+150199104,railway,level_crossing,regular
+150199106,railway,level_crossing,regular
+150199108,highway,traffic_signals,regular
+150199108,traffic_signals,signal,regular
+150199112,highway,traffic_signals,regular
+150199112,traffic_signals,signal,regular
+150199304,railway,level_crossing,regular
+150199306,highway,traffic_signals,regular
+150199306,traffic_signals,signal,regular
+150199310,highway,traffic_signals,regular
+150199310,traffic_signals,signal,regular
+150199547,highway,turning_circle,regular
+150199905,highway,turning_circle,regular
+150199992,highway,turning_circle,regular
+150200002,highway,turning_circle,regular
+150200285,highway,turning_circle,regular
+150200517,highway,turning_circle,regular
+150200539,highway,turning_circle,regular
+150200550,highway,turning_circle,regular
+150200568,highway,turning_circle,regular
+150201577,highway,turning_circle,regular
+150202069,highway,turning_circle,regular
+150202473,highway,turning_circle,regular
+150202680,highway,turning_circle,regular
+150202807,highway,turning_circle,regular
+150202911,highway,turning_circle,regular
+150203041,highway,turning_circle,regular
+150203422,highway,turning_circle,regular
+150204102,highway,turning_circle,regular
+150204768,highway,traffic_signals,regular
+150204768,traffic_signals,signal,regular
+150204769,highway,traffic_signals,regular
+150204769,traffic_signals,signal,regular
+150205000,highway,traffic_signals,regular
+150205000,traffic_signals,signal,regular
+150205001,highway,traffic_signals,regular
+150205001,traffic_signals,signal,regular
+150205053,highway,traffic_signals,regular
+150205053,traffic_signals,signal,regular
+150205056,highway,traffic_signals,regular
+150205056,traffic_signals,signal,regular
+150205071,highway,traffic_signals,regular
+150205071,traffic_signals,signal,regular
+150205074,highway,traffic_signals,regular
+150205074,traffic_signals,signal,regular
+150205191,railway,level_crossing,regular
+150205881,railway,level_crossing,regular
+150205978,highway,traffic_signals,regular
+150205978,traffic_signals,signal,regular
+150205979,highway,traffic_signals,regular
+150205979,traffic_signals,signal,regular
+150206125,highway,turning_circle,regular
+150206131,highway,turning_circle,regular
+150206152,highway,turning_circle,regular
+150206869,highway,turning_circle,regular
+150207669,highway,turning_circle,regular
+150208318,highway,turning_circle,regular
+150208330,highway,turning_circle,regular
+150209293,highway,turning_circle,regular
+150211012,highway,turning_circle,regular
+150211115,highway,turning_circle,regular
+150211123,highway,turning_circle,regular
+150211935,highway,turning_circle,regular
+150212130,highway,turning_circle,regular
+150212132,highway,stop,regular
+150212637,highway,turning_circle,regular
+150213754,highway,turning_circle,regular
+150213925,highway,turning_circle,regular
+150214495,highway,turning_circle,regular
+150214617,highway,turning_circle,regular
+150214782,highway,turning_circle,regular
+150214795,highway,passing_place,regular
+150215731,highway,turning_circle,regular
+150215883,highway,turning_circle,regular
+150217171,highway,turning_circle,regular
+150217555,highway,turning_circle,regular
+150217738,highway,turning_circle,regular
+150217858,highway,turning_circle,regular
+150217933,highway,turning_circle,regular
+150217937,highway,turning_circle,regular
+150218037,highway,turning_circle,regular
+150218191,highway,turning_circle,regular
+150219771,highway,passing_place,regular
+150220166,railway,level_crossing,regular
+150220494,highway,turning_circle,regular
+150221374,highway,turning_circle,regular
+150221391,highway,turning_circle,regular
+150221668,highway,turning_circle,regular
+150221692,highway,turning_circle,regular
+150223051,highway,turning_circle,regular
+150224137,highway,turning_circle,regular
+150224334,highway,turning_circle,regular
+150224485,highway,turning_circle,regular
+150224819,highway,turning_circle,regular
+150225198,highway,turning_circle,regular
+150225396,highway,traffic_signals,regular
+150225396,traffic_signals,signal,regular
+150226092,highway,turning_circle,regular
+150227229,highway,turning_circle,regular
+150227480,highway,turning_circle,regular
+150227572,highway,turning_circle,regular
+150228090,highway,turning_circle,regular
+150228173,highway,turning_circle,regular
+150228177,highway,turning_circle,regular
+150228357,highway,traffic_signals,regular
+150228357,traffic_signals,signal,regular
+150228359,highway,traffic_signals,regular
+150228359,traffic_signals,signal,regular
+150228551,highway,traffic_signals,regular
+150228551,traffic_signals,signal,regular
+150228555,highway,traffic_signals,regular
+150228555,traffic_signals,signal,regular
+150228834,highway,turning_circle,regular
+150230188,highway,turning_circle,regular
+150230359,highway,turning_circle,regular
+150230580,highway,traffic_signals,regular
+150230580,traffic_signals,signal,regular
+150230618,highway,turning_circle,regular
+150230829,highway,turning_circle,regular
+150231048,highway,passing_place,regular
+150231064,highway,turning_circle,regular
+150231131,highway,turning_circle,regular
+150231231,highway,crossing,regular
+150231231,crossing,zebra,regular
+150231231,tactile_paving,no,regular
+150231240,highway,turning_circle,regular
+150233904,highway,turning_circle,regular
+150234298,highway,turning_circle,regular
+150234329,highway,turning_circle,regular
+150234591,highway,turning_circle,regular
+150234680,highway,turning_circle,regular
+150235043,highway,turning_circle,regular
+150235209,highway,turning_circle,regular
+150235762,highway,traffic_signals,regular
+150235762,traffic_signals,signal,regular
+150235764,highway,traffic_signals,regular
+150235764,traffic_signals,signal,regular
+150235794,highway,traffic_signals,regular
+150235796,highway,traffic_signals,regular
+150235819,crossing,traffic_signals,regular
+150235819,highway,traffic_signals,regular
+150236325,highway,traffic_signals,regular
+150236327,highway,traffic_signals,regular
+150236361,highway,traffic_signals,regular
+150236361,traffic_signals,signal,regular
+150236363,highway,traffic_signals,regular
+150236363,traffic_signals,signal,regular
+150236503,highway,turning_circle,regular
+150236700,highway,turning_circle,regular
+150236990,highway,passing_place,regular
+150238009,highway,turning_circle,regular
+150238485,highway,turning_circle,regular
+150238652,highway,turning_circle,regular
+150240190,highway,turning_circle,regular
+150240796,highway,turning_circle,regular
+150240938,highway,passing_place,regular
+150241184,highway,turning_circle,regular
+150241536,highway,traffic_signals,regular
+150241536,crossing,traffic_signals,regular
+150241628,highway,traffic_signals,regular
+150241628,traffic_signals,signal,regular
+150241843,highway,traffic_signals,regular
+150241843,crossing,traffic_signals,regular
+150241905,highway,traffic_signals,regular
+150241905,crossing,traffic_signals,regular
+150243057,highway,turning_circle,regular
+150243467,highway,turning_circle,regular
+150244674,highway,traffic_signals,regular
+150244674,traffic_signals,signal,regular
+150244676,highway,traffic_signals,regular
+150244676,traffic_signals,signal,regular
+150245010,highway,traffic_signals,regular
+150245010,traffic_signals,signal,regular
+150245014,highway,traffic_signals,regular
+150245014,traffic_signals,signal,regular
+150245521,railway,level_crossing,regular
+150246094,highway,turning_circle,regular
+150246290,highway,passing_place,regular
+150246296,highway,turning_circle,regular
+150247229,highway,turning_circle,regular
+150249329,highway,turning_circle,regular
+150249376,highway,turning_circle,regular
+150249502,highway,turning_circle,regular
+150249717,highway,turning_circle,regular
+150249765,highway,turning_circle,regular
+150249902,highway,turning_circle,regular
+150250057,highway,traffic_signals,regular
+150250057,crossing,traffic_signals,regular
+150250375,highway,traffic_signals,regular
+150250375,crossing,traffic_signals,regular
+150250714,highway,turning_circle,regular
+150251651,highway,turning_circle,regular
+150252751,highway,turning_circle,regular
+150253017,highway,turning_circle,regular
+150253819,highway,turning_circle,regular
+150254684,highway,turning_circle,regular
+150254708,highway,turning_circle,regular
+150256081,highway,turning_circle,regular
+150256322,highway,turning_circle,regular
+150256681,highway,turning_circle,regular
+150257038,highway,turning_circle,regular
+150258275,highway,passing_place,regular
+150260058,railway,level_crossing,regular
+150260237,highway,traffic_signals,regular
+150260237,traffic_signals,signal,regular
+150260239,highway,traffic_signals,regular
+150260239,traffic_signals,signal,regular
+150260477,highway,turning_circle,regular
+150260503,highway,turning_circle,regular
+150260514,highway,turning_circle,regular
+150261745,highway,turning_circle,regular
+150262815,highway,turning_circle,regular
+150262921,highway,turning_circle,regular
+150262954,highway,turning_circle,regular
+150263014,highway,turning_circle,regular
+150263338,highway,turning_circle,regular
+150263589,highway,turning_circle,regular
+150263872,highway,turning_circle,regular
+150264342,highway,turning_circle,regular
+150264465,highway,turning_circle,regular
+150265116,highway,turning_circle,regular
+150265191,highway,turning_circle,regular
+150266688,highway,turning_circle,regular
+150269626,highway,turning_circle,regular
+150271389,highway,turning_circle,regular
+150271698,highway,turning_circle,regular
+150272117,highway,turning_circle,regular
+150273920,highway,turning_circle,regular
+150274565,highway,turning_circle,regular
+150274589,highway,turning_circle,regular
+150274915,highway,turning_circle,regular
+150277653,highway,turning_circle,regular
+150278574,highway,turning_circle,regular
+150278625,highway,turning_circle,regular
+150278637,highway,turning_circle,regular
+150278776,highway,turning_circle,regular
+150278943,highway,turning_circle,regular
+150279750,highway,turning_circle,regular
+150279778,highway,traffic_signals,regular
+150279778,crossing,traffic_signals,regular
+150279778,direction,backward,traffic_signals
+150279849,highway,turning_circle,regular
+150280862,highway,turning_circle,regular
+150281279,highway,turning_circle,regular
+150281389,highway,turning_circle,regular
+150281927,highway,turning_circle,regular
+150281956,highway,turning_circle,regular
+150282539,highway,turning_circle,regular
+150282746,highway,turning_circle,regular
+150283040,highway,passing_place,regular
+150283044,highway,passing_place,regular
+150284649,highway,turning_circle,regular
+150284745,highway,turning_circle,regular
+150285081,highway,turning_circle,regular
+150285373,highway,turning_circle,regular
+150285694,highway,turning_circle,regular
+150287411,highway,turning_circle,regular
+150287442,highway,turning_circle,regular
+150287447,highway,turning_circle,regular
+150288268,highway,turning_circle,regular
+150288303,highway,turning_circle,regular
+150288310,highway,turning_circle,regular
+150289455,highway,turning_circle,regular
+150289478,highway,turning_circle,regular
+150289878,highway,turning_circle,regular
+150290040,highway,turning_circle,regular
+150290277,railway,level_crossing,regular
+150290317,railway,level_crossing,regular
+150290557,highway,turning_circle,regular
+150290973,highway,turning_circle,regular
+150291768,highway,turning_circle,regular
+150291818,highway,turning_circle,regular
+150292646,highway,turning_circle,regular
+150295022,highway,turning_circle,regular
+150297073,highway,turning_circle,regular
+150297527,highway,turning_circle,regular
+150297884,highway,turning_circle,regular
+150297912,highway,turning_circle,regular
+150298055,highway,turning_circle,regular
+150298200,highway,turning_circle,regular
+150298250,highway,turning_circle,regular
+150299338,highway,turning_circle,regular
+150300850,highway,turning_circle,regular
+150302415,highway,turning_circle,regular
+150303042,highway,turning_circle,regular
+150303277,highway,turning_circle,regular
+150304006,highway,turning_circle,regular
+150304040,railway,level_crossing,regular
+150306350,highway,turning_circle,regular
+150307007,highway,turning_circle,regular
+150307053,highway,turning_circle,regular
+150307357,highway,turning_circle,regular
+150307581,highway,turning_circle,regular
+150307646,highway,turning_circle,regular
+150307727,highway,turning_circle,regular
+150308556,highway,turning_circle,regular
+150308969,highway,turning_circle,regular
+150309025,highway,turning_circle,regular
+150309600,highway,turning_circle,regular
+150309909,highway,turning_circle,regular
+150310076,highway,turning_circle,regular
+150310303,highway,turning_circle,regular
+150310745,highway,stop,regular
+150311389,highway,turning_circle,regular
+150311700,highway,turning_circle,regular
+150312806,highway,turning_circle,regular
+150312829,highway,turning_circle,regular
+150312885,highway,turning_circle,regular
+150315626,highway,turning_circle,regular
+150316499,highway,turning_circle,regular
+150316651,highway,turning_circle,regular
+150316811,highway,turning_circle,regular
+150317226,highway,turning_circle,regular
+150320196,highway,turning_circle,regular
+150320368,highway,turning_circle,regular
+150322110,highway,turning_circle,regular
+150322941,highway,turning_circle,regular
+150324229,highway,turning_circle,regular
+150324264,highway,turning_circle,regular
+150324326,highway,turning_circle,regular
+150324689,highway,passing_place,regular
+150325014,highway,turning_circle,regular
+150326250,highway,turning_circle,regular
+150329633,highway,turning_circle,regular
+150331687,highway,turning_circle,regular
+150332064,highway,turning_circle,regular
+150332757,highway,turning_circle,regular
+150332866,highway,turning_circle,regular
+150333260,highway,turning_circle,regular
+150333269,highway,turning_circle,regular
+150333427,highway,turning_circle,regular
+150333612,railway,level_crossing,regular
+150333626,railway,level_crossing,regular
+150333629,railway,level_crossing,regular
+150333657,railway,level_crossing,regular
+150333776,railway,level_crossing,regular
+150333783,railway,level_crossing,regular
+150333787,railway,level_crossing,regular
+150333921,railway,level_crossing,regular
+150333924,railway,level_crossing,regular
+150334047,highway,turning_circle,regular
+150334278,highway,turning_circle,regular
+150335448,highway,turning_circle,regular
+150336203,highway,turning_circle,regular
+150337980,highway,turning_circle,regular
+150338003,highway,turning_circle,regular
+150339133,highway,turning_circle,regular
+150339598,highway,turning_circle,regular
+150342512,highway,turning_circle,regular
+150345228,highway,turning_circle,regular
+150345931,highway,turning_circle,regular
+150346349,highway,turning_circle,regular
+150346377,highway,turning_circle,regular
+150347033,highway,turning_circle,regular
+150347046,highway,turning_circle,regular
+150347414,highway,turning_circle,regular
+150347424,highway,turning_circle,regular
+150347533,highway,stop,regular
+150348577,highway,turning_circle,regular
+150348694,highway,turning_circle,regular
+150349771,highway,turning_circle,regular
+150349981,highway,turning_circle,regular
+150350309,highway,turning_circle,regular
+150350895,highway,turning_circle,regular
+150353569,highway,turning_circle,regular
+150353592,highway,turning_circle,regular
+150353930,highway,turning_circle,regular
+150355396,highway,traffic_signals,regular
+150355396,traffic_signals,signal,regular
+150355400,highway,traffic_signals,regular
+150355400,traffic_signals,signal,regular
+150355617,highway,turning_circle,regular
+150356091,highway,turning_circle,regular
+150356289,highway,turning_circle,regular
+150357081,highway,turning_circle,regular
+150357613,highway,turning_circle,regular
+150358552,highway,turning_circle,regular
+150358798,highway,turning_circle,regular
+150358828,railway,level_crossing,regular
+150358860,name,Renner Junction,regular
+150358860,place,locality,regular
+150359111,highway,turning_circle,regular
+150359197,highway,turning_circle,regular
+150360377,highway,turning_circle,regular
+150361708,highway,turning_circle,regular
+150362026,highway,turning_circle,regular
+150362575,highway,turning_circle,regular
+150363350,highway,turning_circle,regular
+150363851,highway,turning_circle,regular
+150363896,highway,turning_circle,regular
+150364595,highway,turning_circle,regular
+150365100,highway,turning_circle,regular
+150365754,highway,turning_circle,regular
+150366106,highway,turning_circle,regular
+150366247,highway,turning_circle,regular
+150366834,highway,turning_circle,regular
+150367175,highway,turning_circle,regular
+150367190,highway,turning_circle,regular
+150367439,highway,turning_circle,regular
+150367496,highway,turning_circle,regular
+150368043,highway,turning_circle,regular
+150368424,highway,turning_circle,regular
+150368676,highway,turning_circle,regular
+150368801,highway,turning_circle,regular
+150368809,highway,turning_circle,regular
+150369184,highway,turning_circle,regular
+150369221,highway,turning_circle,regular
+150369283,highway,turning_circle,regular
+150369298,highway,turning_circle,regular
+150370040,highway,turning_circle,regular
+150370682,highway,turning_circle,regular
+150370832,highway,passing_place,regular
+150370879,highway,turning_circle,regular
+150370938,highway,turning_circle,regular
+150370959,highway,turning_circle,regular
+150370961,highway,turning_circle,regular
+150371362,highway,turning_circle,regular
+150372490,highway,turning_circle,regular
+150372928,highway,turning_circle,regular
+150373130,highway,turning_circle,regular
+150373449,highway,turning_circle,regular
+150373722,highway,turning_circle,regular
+150373898,highway,stop,regular
+150374349,highway,turning_circle,regular
+150374635,highway,turning_circle,regular
+150374948,highway,turning_circle,regular
+150374954,highway,turning_circle,regular
+150374963,highway,turning_circle,regular
+150375983,highway,turning_circle,regular
+150376757,highway,turning_circle,regular
+150376916,highway,passing_place,regular
+150376918,highway,passing_place,regular
+150377245,highway,turning_circle,regular
+150377331,highway,turning_circle,regular
+150377429,highway,turning_circle,regular
+150378059,highway,turning_circle,regular
+150378442,highway,turning_circle,regular
+150378450,highway,turning_circle,regular
+150378771,highway,turning_circle,regular
+150378809,highway,turning_circle,regular
+150378849,highway,turning_circle,regular
+150379183,highway,turning_circle,regular
+150379902,highway,stop,regular
+150382010,highway,turning_circle,regular
+150382054,highway,turning_circle,regular
+150383698,highway,turning_circle,regular
+150385834,railway,level_crossing,regular
+150385936,railway,level_crossing,regular
+150386097,highway,turning_circle,regular
+150386141,highway,turning_circle,regular
+150386309,highway,turning_circle,regular
+150386466,highway,passing_place,regular
+150387248,highway,turning_circle,regular
+150387429,highway,turning_circle,regular
+150387437,highway,turning_circle,regular
+150387617,highway,turning_circle,regular
+150387619,highway,turning_circle,regular
+150387939,highway,turning_circle,regular
+150388163,railway,level_crossing,regular
+150388201,highway,turning_circle,regular
+150388591,highway,turning_circle,regular
+150388926,highway,turning_circle,regular
+150389370,highway,passing_place,regular
+150389473,highway,turning_circle,regular
+150389573,highway,turning_circle,regular
+150389745,highway,turning_circle,regular
+150389923,highway,turning_circle,regular
+150390101,highway,turning_circle,regular
+150390406,railway,level_crossing,regular
+150390565,highway,turning_circle,regular
+150391499,highway,turning_circle,regular
+150392227,highway,turning_circle,regular
+150392575,highway,turning_circle,regular
+150392748,highway,turning_circle,regular
+150393075,railway,level_crossing,regular
+150393411,railway,level_crossing,regular
+150393984,highway,turning_circle,regular
+150394258,highway,traffic_signals,regular
+150394258,crossing,traffic_signals,regular
+150394259,highway,traffic_signals,regular
+150394259,crossing,traffic_signals,regular
+150394271,highway,traffic_signals,regular
+150394271,crossing,traffic_signals,regular
+150394431,highway,turning_circle,regular
+150394634,highway,turning_circle,regular
+150394641,highway,turning_circle,regular
+150395096,highway,turning_circle,regular
+150395427,highway,passing_place,regular
+150396116,highway,turning_circle,regular
+150396218,highway,turning_circle,regular
+150396614,highway,turning_circle,regular
+150399346,highway,turning_circle,regular
+150399664,highway,turning_circle,regular
+150399810,highway,turning_circle,regular
+150400055,highway,traffic_signals,regular
+150400117,highway,traffic_signals,regular
+150400117,traffic_signals,signal,regular
+150400119,highway,traffic_signals,regular
+150400119,traffic_signals,signal,regular
+150400241,highway,traffic_signals,regular
+150400241,traffic_signals,signal,regular
+150400243,highway,traffic_signals,regular
+150400243,traffic_signals,signal,regular
+150400252,railway,level_crossing,regular
+150403756,highway,traffic_signals,regular
+150403756,crossing,traffic_signals,regular
+150404121,highway,passing_place,regular
+150404392,highway,turning_circle,regular
+150405636,highway,turning_circle,regular
+150405674,highway,turning_circle,regular
+150407141,highway,turning_circle,regular
+150407339,highway,turning_circle,regular
+150407345,highway,turning_circle,regular
+150408146,highway,turning_circle,regular
+150408551,highway,turning_circle,regular
+150410369,highway,turning_circle,regular
+150410378,highway,turning_circle,regular
+150410393,highway,turning_circle,regular
+150410436,highway,turning_circle,regular
+150411030,highway,turning_circle,regular
+150411066,highway,turning_circle,regular
+151464971,ele,204,regular
+151464971,name,Renner,regular
+151464971,is_in,"Collin,Texas,Tex.,TX,USA",regular
+151464971,place,hamlet,regular
+151464971,id,1345042,gnis
+151464971,gnis:Class,Populated Place,regular
+151464971,gnis:County,Collin,regular
+151464971,gnis:ST_num,48,regular
+151464971,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+151464971,gnis:ST_alpha,TX,regular
+151464971,gnis:County_num,085,regular
+151832662,ele,213,regular
+151832662,name,Cowley,regular
+151832662,is_in,"Collin,Texas,Tex.,TX,USA",regular
+151832662,place,hamlet,regular
+151832662,id,1378171,gnis
+151832662,gnis:Class,Populated Place,regular
+151832662,gnis:County,Collin,regular
+151832662,gnis:ST_num,48,regular
+151832662,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+151832662,gnis:ST_alpha,TX,regular
+151832662,gnis:County_num,085,regular
+350601398,highway,turning_circle,regular
+356705550,ele,215,regular
+356705550,name,Fanny Harrington Chapel,regular
+356705550,amenity,place_of_worship,regular
+356705550,religion,christian,regular
+356705550,created,11/30/1979,gnis
+356705550,state_id,48,gnis
+356705550,county_id,085,gnis
+356705550,feature_id,1335700,gnis
+356720424,ele,173,regular
+356720424,name,Routh Cemetery,regular
+356720424,amenity,grave_yard,regular
+356720424,created,11/30/1979,gnis
+356720424,state_id,48,gnis
+356720424,county_id,085,gnis
+356720424,feature_id,1345711,gnis
+356794393,ele,195,regular
+356794393,name,Richardson Alternative Learning Center,regular
+356794393,amenity,school,regular
+356794393,created,10/06/2003,gnis
+356794393,state_id,48,gnis
+356794393,county_id,113,gnis
+356794393,feature_id,2004190,gnis
+356794656,ele,161,regular
+356794656,name,Naaman Forest High School,regular
+356794656,amenity,school,regular
+356794656,created,10/06/2003,gnis
+356794656,state_id,48,gnis
+356794656,county_id,113,gnis
+356794656,feature_id,2004245,gnis
+356795697,ele,185,regular
+356795697,name,Hickman Elementary School,regular
+356795697,amenity,school,regular
+356795697,created,10/06/2003,gnis
+356795697,state_id,48,gnis
+356795697,county_id,113,gnis
+356795697,feature_id,2004424,gnis
+356796524,ele,151,regular
+356796524,name,Abbett Elementary School,regular
+356796524,amenity,school,regular
+356796524,created,10/06/2003,gnis
+356796524,state_id,48,gnis
+356796524,county_id,113,gnis
+356796524,feature_id,2004591,gnis
+356814515,ele,199,regular
+356814515,name,Methodist- Richardson Medical Center,regular
+356814515,amenity,hospital,regular
+356814515,created,11/25/2003,gnis
+356814515,state_id,48,gnis
+356814515,county_id,113,gnis
+356814515,feature_id,2015559,gnis
+356814880,ele,222,regular
+356814880,name,Medical Center of Plano,regular
+356814880,amenity,hospital,regular
+356814880,website,http://themedicalcenterofplano.com/,regular
+356814880,city,Plano,addr
+356814880,street,West 15th Street,addr
+356814880,created,11/25/2003,gnis
+356814880,postcode,75075,addr
+356814880,state_id,48,gnis
+356814880,county_id,085,gnis
+356814880,feature_id,2015650,gnis
+356814880,housenumber,3901,addr
+356818160,ele,186,regular
+356818160,name,Meadows Baptist Church,regular
+356818160,amenity,place_of_worship,regular
+356818160,religion,christian,regular
+356818160,denomination,baptist,regular
+356818160,created,12/03/2003,gnis
+356818160,state_id,48,gnis
+356818160,county_id,085,gnis
+356818160,feature_id,2016589,gnis
+356818167,ele,186,regular
+356818167,name,Allen Community Baptist Church,regular
+356818167,amenity,place_of_worship,regular
+356818167,religion,christian,regular
+356818167,denomination,baptist,regular
+356818167,created,12/03/2003,gnis
+356818167,state_id,48,gnis
+356818167,county_id,085,gnis
+356818167,feature_id,2016592,gnis
+356818216,ele,156,regular
+356818216,name,First Baptist Church of Murphy,regular
+356818216,amenity,place_of_worship,regular
+356818216,religion,christian,regular
+356818216,denomination,baptist,regular
+356818216,created,12/03/2003,gnis
+356818216,state_id,48,gnis
+356818216,county_id,085,gnis
+356818216,feature_id,2016608,gnis
+356818219,ele,189,regular
+356818219,name,First Baptist Church of Parker,regular
+356818219,amenity,place_of_worship,regular
+356818219,religion,christian,regular
+356818219,denomination,baptist,regular
+356818219,created,12/03/2003,gnis
+356818219,state_id,48,gnis
+356818219,county_id,085,gnis
+356818219,feature_id,2016609,gnis
+356820007,ele,201,regular
+356820007,name,First Baptist Church of Richardson,regular
+356820007,amenity,place_of_worship,regular
+356820007,religion,christian,regular
+356820007,denomination,baptist,regular
+356820007,created,12/03/2003,gnis
+356820007,state_id,48,gnis
+356820007,county_id,113,gnis
+356820007,feature_id,2017201,gnis
+356821204,amenity,place_of_worship,regular
+356821204,denomination,presbyterian,regular
+356821204,ele,206,regular
+356821204,county_id,085,gnis
+356821204,created,12/03/2003,gnis
+356821204,feature_id,2017543,gnis
+356821204,state_id,48,gnis
+356821204,name,West Plano Presbyterian Church,regular
+356821204,religion,christian,regular
+356821239,ele,217,regular
+356821239,name,Mount Olivet Baptist Church of Plano,regular
+356821239,amenity,place_of_worship,regular
+356821239,religion,christian,regular
+356821239,denomination,baptist,regular
+356821239,created,12/03/2003,gnis
+356821239,state_id,48,gnis
+356821239,county_id,085,gnis
+356821239,feature_id,2017553,gnis
+356821300,amenity,place_of_worship,regular
+356821300,denomination,catholic,regular
+356821300,ele,214,regular
+356821300,county_id,085,gnis
+356821300,created,12/03/2003,gnis
+356821300,feature_id,2017566,gnis
+356821300,state_id,48,gnis
+356821300,name,Saint Elizabeth Ann Seton Catholic Church,regular
+356821300,religion,christian,regular
+356821344,ele,177,regular
+356821344,name,Church of Christ Plano East,regular
+356821344,amenity,place_of_worship,regular
+356821344,religion,christian,regular
+356821344,created,12/03/2003,gnis
+356821344,state_id,48,gnis
+356821344,county_id,085,gnis
+356821344,feature_id,2017574,gnis
+356821386,ele,196,regular
+356821386,name,Faith Episcopal Church,regular
+356821386,amenity,place_of_worship,regular
+356821386,religion,christian,regular
+356821386,created,12/03/2003,gnis
+356821386,state_id,48,gnis
+356821386,county_id,085,gnis
+356821386,feature_id,2017582,gnis
+356821399,ele,222,regular
+356821399,name,Lord of Life Lutheran Church,regular
+356821399,amenity,place_of_worship,regular
+356821399,religion,christian,regular
+356821399,denomination,lutheran,regular
+356821399,created,12/03/2003,gnis
+356821399,state_id,48,gnis
+356821399,county_id,085,gnis
+356821399,feature_id,2017585,gnis
+356821405,ele,225,regular
+356821405,name,Preston Meadow Lutheran Church,regular
+356821405,amenity,place_of_worship,regular
+356821405,religion,christian,regular
+356821405,denomination,lutheran,regular
+356821405,created,12/03/2003,gnis
+356821405,state_id,48,gnis
+356821405,county_id,085,gnis
+356821405,feature_id,2017586,gnis
+356821413,ele,215,regular
+356821413,name,Saint Paul Lutheran Church,regular
+356821413,amenity,place_of_worship,regular
+356821413,religion,christian,regular
+356821413,denomination,lutheran,regular
+356821413,created,12/03/2003,gnis
+356821413,state_id,48,gnis
+356821413,county_id,085,gnis
+356821413,feature_id,2017588,gnis
+356821419,ele,217,regular
+356821419,name,All Nations United Methodist Church,regular
+356821419,amenity,place_of_worship,regular
+356821419,religion,christian,regular
+356821419,denomination,methodist,regular
+356821419,created,12/03/2003,gnis
+356821419,state_id,48,gnis
+356821419,county_id,085,gnis
+356821419,feature_id,2017589,gnis
+356821425,ele,178,regular
+356821425,name,Faith United Methodist Church,regular
+356821425,amenity,place_of_worship,regular
+356821425,religion,christian,regular
+356821425,denomination,methodist,regular
+356821425,created,12/03/2003,gnis
+356821425,state_id,48,gnis
+356821425,county_id,085,gnis
+356821425,feature_id,2017590,gnis
+356821447,ele,215,regular
+356821447,name,The Church of Jesus Christ of Latter Day Saints Missionary,regular
+356821447,amenity,place_of_worship,regular
+356821447,religion,christian,regular
+356821447,created,12/03/2003,gnis
+356821447,state_id,48,gnis
+356821447,county_id,085,gnis
+356821447,feature_id,2017595,gnis
+356844348,ele,222,regular
+356844348,name,Plano Integrated Health Services Hospital,regular
+356844348,amenity,hospital,regular
+356844348,created,12/11/2003,gnis
+356844348,state_id,48,gnis
+356844348,county_id,085,gnis
+356844348,feature_id,2025115,gnis
+356844630,ele,197,regular
+356844630,name,Soccer Spectrum,regular
+356844630,leisure,park,regular
+356844630,created,02/11/2004,gnis
+356844630,state_id,48,gnis
+356844630,county_id,113,gnis
+356844630,feature_id,2027518,gnis
+356844854,ele,209,regular
+356844854,name,UT Dallas Activities Center - University of Texas,regular
+356844854,building,yes,regular
+356844854,created,02/11/2004,gnis
+356844854,state_id,48,gnis
+356844854,county_id,085,gnis
+356844854,feature_id,2027612,gnis
+356846720,ele,199,regular
+356846720,name,Enfield Park,regular
+356846720,leisure,park,regular
+356846720,created,02/11/2004,gnis
+356846720,state_id,48,gnis
+356846720,county_id,085,gnis
+356846720,feature_id,2028368,gnis
+356846744,ele,210,regular
+356846744,name,Evans Park,regular
+356846744,leisure,park,regular
+356846744,created,02/11/2004,gnis
+356846744,state_id,48,gnis
+356846744,county_id,085,gnis
+356846744,feature_id,2028374,gnis
+356847660,ele,203,regular
+356847660,name,Longhorn Park,regular
+356847660,leisure,park,regular
+356847660,created,02/11/2004,gnis
+356847660,state_id,48,gnis
+356847660,county_id,085,gnis
+356847660,feature_id,2028571,gnis
+356847670,ele,178,regular
+356847670,name,Lookout Park,regular
+356847670,leisure,park,regular
+356847670,created,02/11/2004,gnis
+356847670,state_id,48,gnis
+356847670,county_id,113,gnis
+356847670,feature_id,2028573,gnis
+356848486,ele,182,regular
+356848486,name,Brisby Park,regular
+356848486,leisure,park,regular
+356848486,created,02/11/2004,gnis
+356848486,state_id,48,gnis
+356848486,county_id,113,gnis
+356848486,feature_id,2028726,gnis
+356848555,ele,158,regular
+356848555,name,Bob Woodruff Park,regular
+356848555,leisure,park,regular
+356848555,created,02/11/2004,gnis
+356848555,state_id,48,gnis
+356848555,county_id,085,gnis
+356848555,feature_id,2028758,gnis
+356850131,ele,183,regular
+356850131,name,Shoshoni Park,regular
+356850131,leisure,park,regular
+356850131,created,02/12/2004,gnis
+356850131,state_id,48,gnis
+356850131,county_id,085,gnis
+356850131,feature_id,2029339,gnis
+356850844,ele,147,regular
+356850844,name,One Eleven Ranch Park,regular
+356850844,leisure,park,regular
+356850844,created,02/12/2004,gnis
+356850844,state_id,48,gnis
+356850844,county_id,113,gnis
+356850844,feature_id,2029636,gnis
+356850942,ele,162,regular
+356850942,name,Oak Grove Park,regular
+356850942,leisure,park,regular
+356850942,created,02/12/2004,gnis
+356850942,state_id,48,gnis
+356850942,county_id,085,gnis
+356850942,feature_id,2029681,gnis
+356855207,ele,204,regular
+356855207,name,Church of God of Dallas North,regular
+356855207,amenity,place_of_worship,regular
+356855207,religion,christian,regular
+356855207,created,05/28/2008,gnis
+356855207,state_id,48,gnis
+356855207,county_id,113,gnis
+356855207,feature_id,2427760,gnis
+368161614,ele,225,regular
+368161614,name,"W O Haggard, Junior Library",regular
+368161614,source,USGS Geonames,regular
+368161614,amenity,library,regular
+368161614,state,TEXAS,addr
+368161614,reviewed,no,gnis
+368161614,feature_id,2014746,gnis
+368161614,county_name,Collin,gnis
+368161614,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368161802,ele,179,regular
+368161802,name,Jackson County Memorial Library,regular
+368161802,source,USGS Geonames,regular
+368161802,amenity,library,regular
+368161802,state,TEXAS,addr
+368161802,reviewed,no,gnis
+368161802,feature_id,2014878,gnis
+368161802,county_name,Jackson,gnis
+368161802,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368165040,city,Plano,addr
+368165040,state,TEXAS,addr
+368165040,ele,195,regular
+368165040,county_name,Collin,gnis
+368165040,feature_id,2014280,gnis
+368165040,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+368165040,reviewed,no,gnis
+368165040,name,Heritage Farmstead Museum,regular
+368165040,note,Entry to the buildings is only available during 1:30 p.m. tours (also at 10:30 a.m. during summer). Fee for guided tour: $ 5.00. The farmstead is listed on the National Register of Historic Places. Gift shop on site.,regular
+368165040,opening_hours,Tu-Su 10:00-16:30,regular
+368165040,operator,The Heritage Farmstead Association,regular
+368165040,phone,972-881-0140,regular
+368165040,source,USGS Geonames,regular
+368165040,tourism,museum,regular
+368165040,website,http://www.heritagefarmstead.org/,regular
+368165040,wikipedia,en:Heritage Farmstead Museum,regular
+369122045,ele,226,regular
+369122045,name,Mcp Heliport,regular
+369122045,aeroway,helipad,regular
+369122045,state,TEXAS,addr
+369122045,source_ref,geonames.usgs.gov,regular
+369122045,created,08/01/1994,gnis
+369122045,feature_id,1387331,gnis
+369122045,county_name,Collin,gnis
+369122045,feature_type,Airport,gnis
+369122442,ele,177,regular
+369122442,name,Owens Country Sausage Heliport,regular
+369122442,aeroway,helipad,regular
+369122442,state,TEXAS,addr
+369122442,source_ref,geonames.usgs.gov,regular
+369122442,created,08/01/1994,gnis
+369122442,feature_id,1387391,gnis
+369122442,county_name,Collin,gnis
+369122442,feature_type,Airport,gnis
+476153562,noref,yes,regular
+476153562,highway,motorway_junction,regular
+566522167,bus,yes,regular
+566522167,highway,bus_stop,regular
+566522167,public_transport,stop_position,regular
+566525780,name,Richardson Fire Department Fire Station # 4,regular
+566525780,amenity,fire_station,regular
+566526168,amenity,fire_station,regular
+566526555,name,Richardson Fire Department Fire Station # 3,regular
+566526555,amenity,fire_station,regular
+566526624,name,Richardson Fire Department Fire Station # 5,regular
+566526624,amenity,fire_station,regular
+567527592,highway,turning_circle,regular
+567527622,highway,turning_circle,regular
+606292682,name,Chop Soy Asian Cuisine,regular
+606292682,amenity,restaurant,regular
+606292682,city,Plano,addr
+606292682,street,Alma Drive,addr
+606292682,postcode,75023,addr
+606292682,housenumber,6900,addr
+810747416,highway,traffic_signals,regular
+810747416,traffic_signals,signal,regular
+810747421,highway,traffic_signals,regular
+810747421,traffic_signals,signal,regular
+825408123,name,fuzzy taco shop,regular
+825408123,amenity,restaurant,regular
+825408125,name,CVS,regular
+825408125,amenity,pharmacy,regular
+825408436,name,Doc's,regular
+825408436,shop,convenience,regular
+825408480,name,Pizza Hut,regular
+825408480,amenity,restaurant,regular
+825408554,name,Cici's Pizza Buffet,regular
+825408554,amenity,restaurant,regular
+1041515785,name,Bike Rack,regular
+1041515785,amenity,bicycle_parking,regular
+1041515785,covered,no,regular
+1041515785,capacity,5,regular
+1060494741,railway,buffer_stop,regular
+1067159626,ele,211.8546143,regular
+1067159626,amenity,toilets,regular
+1067159626,wpt_description,25-DEC-10 18:40:29,regular
+1067167643,ele,204.8851318,regular
+1067167643,name,Sally Magnuson Pavilion,regular
+1067167643,amenity,shelter,regular
+1067167643,wpt_description,25-DEC-10 18:31:18,regular
+1067167644,amenity,drinking_water,regular
+1067171548,ele,202.0012207,regular
+1067171548,leisure,playground,regular
+1067171548,wpt_description,25-DEC-10 18:29:33,regular
+1067173213,ele,206.0867920,regular
+1067173213,name,Jack Carter Pool,regular
+1067173213,leisure,swimming_pool,regular
+1067173213,opening_hours,Closed,regular
+1067173213,wpt_description,25-DEC-10 18:27:42,regular
+1067175641,amenity,parking,regular
+1067184529,highway,crossing,regular
+1080849137,highway,traffic_signals,regular
+1080849137,traffic_signals,signal,regular
+1080849219,highway,traffic_signals,regular
+1080849219,traffic_signals,signal,regular
+1080849229,highway,traffic_signals,regular
+1080849229,traffic_signals,signal,regular
+1089889950,man_made,water_tower,regular
+1089916117,ref,31,regular
+1089916117,highway,motorway_junction,regular
+1089916169,ref,29A;29,regular
+1089916169,highway,motorway_junction,regular
+1091039305,highway,turning_circle,regular
+1092166565,highway,turning_circle,regular
+1092166803,highway,turning_circle,regular
+1092166878,highway,turning_circle,regular
+1092166918,highway,turning_circle,regular
+1092167015,highway,turning_circle,regular
+1092167079,highway,turning_circle,regular
+1092167095,highway,turning_circle,regular
+1092167217,highway,turning_circle,regular
+1092167248,highway,turning_circle,regular
+1092175104,highway,turning_circle,regular
+1092241113,highway,turning_circle,regular
+1092241574,highway,turning_circle,regular
+1124316980,name,Jack in the Box,regular
+1124316980,source,Yahoo,regular
+1124316980,amenity,fast_food,regular
+1124316980,comment,Added a fastfood restaurant,regular
+1125597796,name,Walgreens,regular
+1125597796,amenity,pharmacy,regular
+1125597796,dispensing,yes,regular
+1125597796,street,Legacy Drive,addr
+1125597796,postcode,75023,addr
+1125597796,housename,Walgreens,addr
+1125597796,housenumber,901,addr
+1125620434,name,Car care central,regular
+1125620434,shop,car_repair,regular
+1125620434,website,carcarecentral.biz,regular
+1125620434,street,Alma Drive,addr
+1125620434,postcode,75023,addr
+1125620434,housename,Car care central,addr
+1125620434,housenumber,7013,addr
+1129277075,amenity,fire_station,regular
+1207719960,shop,no,regular
+1207719960,brand,Costco Gasoline,regular
+1207719960,amenity,fuel,regular
+1268914463,highway,turning_circle,regular
+1330276004,noexit,yes,regular
+1358434439,highway,traffic_signals,regular
+1358434439,traffic_signals,signal,regular
+1360009135,highway,traffic_signals,regular
+1360009148,highway,traffic_signals,regular
+1513101697,name,Plano,regular
+1513101697,place,city,regular
+1513101697,wikidata,Q51689,regular
+1513101697,wikipedia,"en:Plano, Texas",regular
+1513101697,population,269776,regular
+1513101697,population,US Census 2010,source
+1566556495,name,Cafe Amore,regular
+1566556495,amenity,restaurant,regular
+1567935766,name,North Dallas Physical Therapy,regular
+1567935766,amenity,doctors,regular
+1567938464,name,US Post Office,regular
+1567938464,amenity,post_office,regular
+1567938464,street,North Coit Road,addr
+1567998046,name,Subway,regular
+1567998046,amenity,fast_food,regular
+1567998046,cuisine,sandwich,regular
+1568584989,name,RaceTrac,regular
+1568584989,amenity,fuel,regular
+1568588624,name,CineMark,regular
+1568588624,amenity,cinema,regular
+1568727414,name,7eleven,regular
+1568727414,amenity,fuel,regular
+1568730024,name,The Heights Baptist Church,regular
+1568730024,phone,972-238-7243,regular
+1568730024,amenity,place_of_worship,regular
+1568730024,website,http://www.theheights.org/,regular
+1568730024,religion,christian,regular
+1568730024,city,Richardson,addr
+1568730024,street,West Renner Road,addr
+1568730024,denomination,baptist,regular
+1568730024,postcode,75080,addr
+1568730024,housenumber,201,addr
+1569990606,name,Jack in the Box,regular
+1569990606,amenity,fast_food,regular
+1570000811,name,Bank of America,regular
+1570000811,amenity,bank,regular
+1570037953,name,Starbucks,regular
+1570037953,amenity,cafe,regular
+1570037953,cuisine,coffee_shop,regular
+1570158623,name,Chevron,regular
+1570158623,amenity,fuel,regular
+1570158951,name,T-Mobile,regular
+1570158951,shop,mobile_phone,regular
+1570159282,name,Wells Fargo,regular
+1570159282,amenity,bank,regular
+1570160120,name,Exxon,regular
+1570160120,amenity,fuel,regular
+1583522316,name,Texaco,regular
+1583522316,brand,Texaco,regular
+1583522316,amenity,fuel,regular
+1583522318,name,Dollar General,regular
+1583522318,shop,convenience,regular
+1583525375,alt_name,Chipotle Mexican Grill,regular
+1583525375,amenity,fast_food,regular
+1583525375,website,https://chipotle.com/,contact
+1583525375,cuisine,mexican,regular
+1583525375,name,Chipotle,regular
+1583526082,name,Which Wich,regular
+1583526082,amenity,restaurant,regular
+1583526082,cuisine,sandwich,regular
+1583526709,name,Smoothie King,regular
+1583526709,amenity,restaurant,regular
+1583526709,cuisine,ice_cream,regular
+1583527870,name,7-Eleven,regular
+1583527870,shop,convenience,regular
+1583527871,name,World of Organics & Hydroponics,regular
+1583527871,shop,Hydroponics Equipment Supplier,regular
+1583527871,city,Richardson,addr
+1583527871,state,TEXAS,addr
+1583527871,street,Alamo Road,addr
+1583527871,postcode,75080,addr
+1583527871,housenumber,2100,addr
+1584170324,name,Fellowship Bible Church Arapaho,regular
+1584170324,amenity,place_of_worship,regular
+1584170324,website,http://www.fbcarapaho.com,regular
+1584170324,religion,christian,regular
+1584170324,denomination,nondenominational,regular
+1584209933,name,Starbucks,regular
+1584209933,amenity,cafe,regular
+1584209933,cuisine,coffee_shop,regular
+1584209934,name,Pot Belly's Sandwichs,regular
+1584209934,amenity,restaurant,regular
+1584209934,cuisine,sandwich,regular
+1584212093,name,Richardson Bike Mart,regular
+1584212093,shop,bicycle,regular
+1584212156,name,Sonny Bryan's Smokehouse,regular
+1584212156,amenity,restaurant,regular
+1584212156,cuisine,regional,regular
+1584212156,website,http://www.sonnybryans.com/,regular
+1584212157,name,Subway,regular
+1584212157,amenity,fast_food,regular
+1584212157,cuisine,sandwich,regular
+1584212158,name,Sprouts,regular
+1584212158,shop,supermarket,regular
+1584213492,name,Olive Oil's Pizzeria,regular
+1584213492,amenity,restaurant,regular
+1584213492,cuisine,pizza,regular
+1584213492,website,http://www.oliveoilspizzeria.com,regular
+1584213493,name,Braum's Ice Cream and Dairy,regular
+1584213493,amenity,restaurant,regular
+1584213493,cuisine,ice_cream,regular
+1584213494,name,Fadia's Deli and Bakery,regular
+1584213494,amenity,restaurant,regular
+1584213494,cuisine,international,regular
+1584213494,website,http://www.fadiasweets.com/,regular
+1584214223,name,La Madeleine,regular
+1584214223,amenity,restaurant,regular
+1584214223,cuisine,french,regular
+1584214223,website,http://www.lamadeleine.com/,regular
+1584214224,name,Sushi Loco,regular
+1584214224,amenity,restaurant,regular
+1584214224,cuisine,sushi,regular
+1584214224,website,http://sushiloco.com/,regular
+1584214965,name,Corner Bakery,regular
+1584214965,amenity,restaurant,regular
+1584214966,name,Rockfish,regular
+1584214966,amenity,restaurant,regular
+1584214966,cuisine,american,regular
+1584214968,name,String Bean,regular
+1584214968,amenity,restaurant,regular
+1584214968,cuisine,american,regular
+1584219818,name,Dress Barn,regular
+1584219818,shop,clothes,regular
+1584219819,name,Run On!,regular
+1584219819,shop,clothes,regular
+1584219820,name,Qdoba,regular
+1584219820,amenity,fast_food,regular
+1584219820,cuisine,mexican,regular
+1584219821,name,Salado Mexican Grill,regular
+1584219821,amenity,restaurant,regular
+1584219821,cuisine,mexican,regular
+1584219821,website,http://saladomexicangrill.com/,regular
+1584219822,name,Home Goods,regular
+1584219822,shop,houseware,regular
+1584219823,name,Chili's,regular
+1584219823,amenity,restaurant,regular
+1584219823,cuisine,american,regular
+1584229860,name,Quiznos,regular
+1584229860,amenity,fast_food,regular
+1584229860,cuisine,sandwich,regular
+1584229860,website,http://www.quiznos.com/,regular
+1584229886,name,Wendy's,regular
+1584229886,amenity,fast_food,regular
+1584229886,cuisine,american,regular
+1584229897,name,Jimmy John's,regular
+1584229897,amenity,fast_food,regular
+1584229897,cuisine,sandwich,regular
+1584229907,name,7-Eleven,regular
+1584229907,shop,convenience,regular
+1584229910,name,Firestone,regular
+1584229910,shop,car_repair,regular
+1584229911,name,Favorite Yogurt,regular
+1584229911,amenity,restaurant,regular
+1584229911,cuisine,ice_cream,regular
+1584229913,amenity,fast_food,regular
+1584229913,cuisine,sandwich,regular
+1584229913,name,Jersey Mike's,regular
+1584229920,amenity,fast_food,regular
+1584229920,cuisine,sandwich,regular
+1584229920,name,Panera Bread,regular
+1584229920,website,http://www.panerabread.com/,regular
+1584232127,name,Viewpoint Bank,regular
+1584232127,amenity,bank,regular
+1584232389,name,Valero,regular
+1584232389,amenity,fuel,regular
+1584235608,name,Richardson Public Library Fountain,regular
+1584235608,amenity,fountain,regular
+1592187888,highway,turning_circle,regular
+1598463269,name,"Plumbing by Jay, INC.",regular
+1598463269,shop,doityourself,regular
+1598463269,source,www.plumbingbyjay.com,regular
+1598463269,website,www.plumbingbyjay.com,regular
+1598463269,street,"Avenue K, suite 700-285",addr
+1598463269,postcode,75074,addr
+1598463269,housename,"Plumbing by Jay, INC.",addr
+1598463269,housenumber,2520,addr
+1611994926,power,tower,regular
+1611994943,power,tower,regular
+1611994949,power,tower,regular
+1611994952,power,tower,regular
+1611994978,power,tower,regular
+1611994987,power,tower,regular
+1611995021,power,tower,regular
+1611995042,power,tower,regular
+1611995112,power,tower,regular
+1611995130,power,tower,regular
+1611995133,power,tower,regular
+1611995142,power,tower,regular
+1611995144,power,tower,regular
+1611995176,power,tower,regular
+1611995180,power,tower,regular
+1611995202,power,tower,regular
+1623173943,name,Walmart Supercenter,regular
+1623173943,shop,supermarket,regular
+1623176229,amenity,bank,regular
+1623176236,shop,supermarket,regular
+1623176241,name,Sonic,regular
+1623176241,amenity,restaurant,regular
+1624345404,highway,traffic_signals,regular
+1624345642,highway,traffic_signals,regular
+1704322686,highway,stop,regular
+1704322779,ref,30,regular
+1704322779,highway,motorway_junction,regular
+1704322835,ref,32,regular
+1704322835,highway,motorway_junction,regular
+1707205389,noref,yes,regular
+1707205389,highway,motorway_junction,regular
+1707205391,highway,motorway_junction,regular
+1769982452,highway,crossing,regular
+1769982465,highway,crossing,regular
+1769982509,highway,crossing,regular
+1827085539,power,tower,regular
+1827085543,power,tower,regular
+1829823184,man_made,water_tower,regular
+1829823190,power,tower,regular
+1829823191,power,tower,regular
+1829823192,power,tower,regular
+1829823193,power,tower,regular
+1829823194,power,tower,regular
+1829823195,power,tower,regular
+1829823196,power,tower,regular
+1829823197,power,tower,regular
+1829823198,power,tower,regular
+1829823199,power,tower,regular
+1829823200,power,tower,regular
+1829823201,power,tower,regular
+1829823202,power,tower,regular
+1829823203,power,tower,regular
+1829823204,power,tower,regular
+1829823205,power,tower,regular
+1829823206,power,tower,regular
+1829823209,power,tower,regular
+1829823210,power,tower,regular
+1829823211,power,tower,regular
+1829823212,power,tower,regular
+1832186449,power,tower,regular
+1832186450,power,tower,regular
+1832186451,power,tower,regular
+1832186452,power,tower,regular
+1832186453,power,transformer,regular
+1832186453,voltage-high,345000,regular
+1832186454,power,tower,regular
+1832186455,power,tower,regular
+1832186459,power,switch,regular
+1832186460,power,tower,regular
+1832186461,power,tower,regular
+1832186464,power,switch,regular
+1832186466,power,switch,regular
+1832186474,power,transformer,regular
+1832186474,voltage-high,345000,regular
+1832186479,power,tower,regular
+1832186480,power,tower,regular
+1832186481,power,tower,regular
+1832186482,power,tower,regular
+1832186483,power,tower,regular
+1832186484,power,tower,regular
+1832186485,power,tower,regular
+1832186487,power,tower,regular
+1832186489,power,tower,regular
+1873892863,highway,traffic_signals,regular
+1873892863,traffic_signals,signal,regular
+1873892923,highway,traffic_signals,regular
+1873892923,traffic_signals,signal,regular
+1873892938,highway,traffic_signals,regular
+1873892938,traffic_signals,signal,regular
+1886499341,name,AMS-TAOS Inc.,regular
+1886499341,office,company,regular
+1886499341,city,Plano,addr
+1886499341,door,Suite 300,addr
+1886499341,state,TEXAS,addr
+1886499341,street,Klein Road,addr
+1886499341,country,US,addr
+1886499341,postcode,75074,addr
+1886499341,housenumber,1001,addr
+1891153647,name,Plano Police,regular
+1891153647,amenity,police,regular
+1891153962,name,Plano Public Library,regular
+1891153962,amenity,library,regular
+1891154296,name,Kroger,regular
+1891154296,shop,supermarket,regular
+1891157766,name,Texas Instruments,regular
+1891157766,building,yes,regular
+1891157766,street,Chase Oaks Boulevard,addr
+1891157766,postcode,75023,addr
+1891157766,housenumber,6550,addr
+1899144076,amenity,parking,regular
+1899147782,amenity,parking,regular
+2023636486,power,tower,regular
+2023636499,power,tower,regular
+2023636510,power,tower,regular
+2023636511,power,tower,regular
+2023636514,power,tower,regular
+2023636525,power,tower,regular
+2023636526,power,tower,regular
+2023636562,power,tower,regular
+2047643399,railway,halt,regular
+2047643399,light_rail,yes,regular
+2047643399,public_transport,stop_position,regular
+2047643405,railway,level_crossing,regular
+2047643408,railway,level_crossing,regular
+2047643412,railway,level_crossing,regular
+2047643435,railway,buffer_stop,regular
+2047643493,railway,halt,regular
+2047643493,light_rail,yes,regular
+2047643493,public_transport,stop_position,regular
+2047643499,railway,level_crossing,regular
+2047643516,railway,level_crossing,regular
+2047643522,railway,level_crossing,regular
+2047643593,railway,level_crossing,regular
+2047643603,railway,level_crossing,regular
+2047657731,railway,level_crossing,regular
+2047657742,railway,level_crossing,regular
+2047657744,railway,level_crossing,regular
+2047657745,railway,level_crossing,regular
+2047657763,railway,level_crossing,regular
+2047657769,railway,level_crossing,regular
+2047657774,railway,level_crossing,regular
+2047657789,railway,level_crossing,regular
+2047657794,railway,level_crossing,regular
+2047657797,railway,level_crossing,regular
+2047657817,railway,level_crossing,regular
+2047657833,railway,halt,regular
+2047657833,light_rail,yes,regular
+2047657833,public_transport,stop_position,regular
+2047657834,railway,level_crossing,regular
+2047657838,railway,level_crossing,regular
+2047657879,railway,level_crossing,regular
+2047657889,railway,level_crossing,regular
+2047657906,railway,level_crossing,regular
+2047657914,railway,crossing,regular
+2047657922,railway,crossing,regular
+2047657963,railway,halt,regular
+2047657963,light_rail,yes,regular
+2047657963,public_transport,stop_position,regular
+2073377441,highway,turning_circle,regular
+2074707265,highway,turning_circle,regular
+2074707529,highway,turning_circle,regular
+2074707532,highway,turning_circle,regular
+2074707584,highway,turning_circle,regular
+2074707650,highway,turning_circle,regular
+2078582210,highway,traffic_signals,regular
+2078582210,crossing,traffic_signals,regular
+2078582213,highway,traffic_signals,regular
+2078582213,crossing,traffic_signals,regular
+2078582250,highway,traffic_signals,regular
+2078582250,crossing,traffic_signals,regular
+2078582252,highway,traffic_signals,regular
+2078582252,crossing,traffic_signals,regular
+2276401521,highway,traffic_signals,regular
+2276401521,crossing,traffic_signals,regular
+2276401523,highway,traffic_signals,regular
+2276401523,crossing,traffic_signals,regular
+2276401525,highway,traffic_signals,regular
+2276401525,crossing,traffic_signals,regular
+2276401531,highway,traffic_signals,regular
+2276401531,crossing,traffic_signals,regular
+2288282517,name,Aviary Park,regular
+2288282517,leisure,playground,regular
+2293979600,name,QuickWeightLossDiet.biz,regular
+2293979600,source,QuickWeightLossDiet.biz,regular
+2293979600,amenity,pharmacy,regular
+2293979600,website,www.QuickWeightLossDiet.biz,regular
+2293979600,dispensing,no,regular
+2293979600,street,Parkside dr,addr
+2293979600,designation,weight loss,regular
+2293979600,postcode,75075,addr
+2293979600,housenumber,3105,addr
+2307260993,name,The Hangout Patio Bar & Grill,regular
+2307260993,amenity,restaurant,regular
+2307317065,name,Chuy's,regular
+2307317065,amenity,restaurant,regular
+2307317065,cuisine,mexican,regular
+2307317091,name,Joe's Crab Shack,regular
+2307317091,amenity,restaurant,regular
+2307317091,cuisine,seafood,regular
+2307317098,name,Carrabba's Italian Grill,regular
+2307317098,amenity,restaurant,regular
+2307317098,cuisine,italian,regular
+2307317100,name,Abuelo's,regular
+2307317100,amenity,restaurant,regular
+2307317100,cuisine,mexican,regular
+2309606995,highway,traffic_signals,regular
+2309606995,crossing,traffic_signals,regular
+2309606999,highway,traffic_signals,regular
+2309606999,crossing,traffic_signals,regular
+2309607002,highway,traffic_signals,regular
+2309607002,crossing,traffic_signals,regular
+2309607004,highway,traffic_signals,regular
+2309607004,crossing,traffic_signals,regular
+2323673143,name,"Cisco Systems Inc, Richardson Campus",regular
+2323673143,city,Richardson,addr
+2323673143,street,President George Bush Highway,addr
+2323673143,postcode,75082,addr
+2323673143,housename,"Cisco Systems Richardson, TX, 75082",addr
+2323673143,housenumber,2200E,addr
+2328836841,highway,traffic_signals,regular
+2328836841,crossing,traffic_signals,regular
+2328836845,highway,traffic_signals,regular
+2328836845,crossing,traffic_signals,regular
+2334077769,highway,traffic_signals,regular
+2334077769,crossing,traffic_signals,regular
+2334077769,supervised,no,regular
+2334077770,highway,traffic_signals,regular
+2334077770,crossing,traffic_signals,regular
+2334077770,supervised,no,regular
+2334077771,highway,traffic_signals,regular
+2334077771,crossing,traffic_signals,regular
+2334077771,supervised,no,regular
+2334077772,highway,traffic_signals,regular
+2334077772,crossing,traffic_signals,regular
+2334077772,supervised,no,regular
+2334077796,highway,passing_place,regular
+2334077801,highway,passing_place,regular
+2334077803,highway,traffic_signals,regular
+2334077803,crossing,traffic_signals,regular
+2334077805,highway,traffic_signals,regular
+2334077805,crossing,traffic_signals,regular
+2334077819,highway,traffic_signals,regular
+2334077819,crossing,traffic_signals,regular
+2334077820,highway,traffic_signals,regular
+2334077820,crossing,traffic_signals,regular
+2334077821,highway,traffic_signals,regular
+2334077821,crossing,traffic_signals,regular
+2334077822,highway,traffic_signals,regular
+2334077822,crossing,traffic_signals,regular
+2334077823,highway,traffic_signals,regular
+2334077823,crossing,traffic_signals,regular
+2334077824,highway,traffic_signals,regular
+2334077824,crossing,traffic_signals,regular
+2334077825,highway,traffic_signals,regular
+2334077825,crossing,traffic_signals,regular
+2337574259,highway,passing_place,regular
+2337574262,highway,passing_place,regular
+2337574263,highway,passing_place,regular
+2337574284,highway,turning_circle,regular
+2374400043,name,Walmart Supercenter,regular
+2374400043,shop,supermarket,regular
+2374400043,phone,972-422-3000,regular
+2374400043,website,www.walmart.com,regular
+2374400043,street,North Central Exressway,addr
+2374400043,opening_hours,24/7,regular
+2374400043,housenumber,6001,addr
+2374404145,name,Cici's Pizza,regular
+2374404145,phone,972-509-5522,regular
+2374404145,amenity,restaurant,regular
+2374404145,website,www.cicispizza.com,regular
+2374404145,street,West Spring Creek Parkway,addr
+2374404145,opening_hours,Mo-Th 11:00-22:00; Fr-Su 11:00-23:00,regular
+2374404145,housenumber,823,addr
+2374406196,name,Racetrac,regular
+2374406196,phone,972-527-7037,regular
+2374406196,amenity,fuel,regular
+2374406196,street,West Spring Creek Parkway,addr
+2374406196,housenumber,309,addr
+2391903294,city,Plano,addr
+2391903294,street,Daybreak Trail,addr
+2391903294,housenumber,2000,addr
+2391903325,city,Plano,addr
+2391903325,street,Daybreak Trail,addr
+2391903325,housenumber,2004,addr
+2391903348,city,Plano,addr
+2391903348,street,Daybreak Trail,addr
+2391903348,housenumber,2100,addr
+2391903361,city,Plano,addr
+2391903361,street,Daybreak Trail,addr
+2391903361,housenumber,2104,addr
+2391903374,city,Plano,addr
+2391903374,street,Daybreak Trail,addr
+2391903374,housenumber,2108,addr
+2391903388,city,Plano,addr
+2391903388,street,Daybreak Trail,addr
+2391903388,housenumber,2112,addr
+2391903402,city,Plano,addr
+2391903402,street,Daybreak Trail,addr
+2391903402,housenumber,2200,addr
+2391903409,city,Plano,addr
+2391903409,street,Daybreak Trail,addr
+2391903409,housenumber,2204,addr
+2391903415,city,Plano,addr
+2391903415,street,Daybreak Trail,addr
+2391903415,housenumber,2208,addr
+2391903422,city,Plano,addr
+2391903422,street,Daybreak Trail,addr
+2391903422,housenumber,2212,addr
+2391903429,city,Plano,addr
+2391903429,street,Daybreak Trail,addr
+2391903429,housenumber,2300,addr
+2391903439,city,Plano,addr
+2391903439,street,Daybreak Trail,addr
+2391903439,housenumber,2304,addr
+2391903449,city,Plano,addr
+2391903449,street,Daybreak Trail,addr
+2391903449,housenumber,2308,addr
+2391903455,city,Plano,addr
+2391903455,street,Daybreak Trail,addr
+2391903455,housenumber,2309,addr
+2391903462,city,Plano,addr
+2391903462,street,Daybreak Trail,addr
+2391903462,housenumber,2312,addr
+2391903465,city,Plano,addr
+2391903465,street,Daybreak Trail,addr
+2391903465,housenumber,2313,addr
+2391903471,city,Plano,addr
+2391903471,street,Daybreak Trail,addr
+2391903471,housenumber,2316,addr
+2391903474,city,Plano,addr
+2391903474,street,Daybreak Trail,addr
+2391903474,housenumber,2317,addr
+2391903478,city,Plano,addr
+2391903478,street,Daybreak Trail,addr
+2391903478,housenumber,2320,addr
+2391903481,city,Plano,addr
+2391903481,street,Daybreak Trail,addr
+2391903481,housenumber,2321,addr
+2391903485,city,Plano,addr
+2391903485,street,Daybreak Trail,addr
+2391903485,housenumber,2400,addr
+2391903495,city,Plano,addr
+2391903495,street,Daybreak Trail,addr
+2391903495,housenumber,2404,addr
+2391903506,city,Plano,addr
+2391903506,street,Daybreak Trail,addr
+2391903506,housenumber,2408,addr
+2391903516,city,Plano,addr
+2391903516,street,Daybreak Trail,addr
+2391903516,housenumber,2412,addr
+2391903526,city,Plano,addr
+2391903526,street,Daybreak Trail,addr
+2391903526,housenumber,2416,addr
+2391903534,city,Plano,addr
+2391903534,street,Rosehill Lane,addr
+2391903534,housenumber,2500,addr
+2391903537,city,Plano,addr
+2391903537,street,Rosehill Lane,addr
+2391903537,housenumber,2504,addr
+2391903541,city,Plano,addr
+2391903541,street,Rosehill Lane,addr
+2391903541,housenumber,2508,addr
+2391903544,city,Plano,addr
+2391903544,street,Rosehill Lane,addr
+2391903544,housenumber,2509,addr
+2391903547,city,Plano,addr
+2391903547,street,Rosehill Lane,addr
+2391903547,housenumber,2512,addr
+2391903551,city,Plano,addr
+2391903551,street,Rosehill Lane,addr
+2391903551,housenumber,2513,addr
+2391903554,city,Plano,addr
+2391903554,street,Rosehill Lane,addr
+2391903554,housenumber,2516,addr
+2391903557,city,Plano,addr
+2391903557,street,Rosehill Lane,addr
+2391903557,housenumber,2517,addr
+2391903561,city,Plano,addr
+2391903561,street,Courtside Lane,addr
+2391903561,housenumber,2600,addr
+2391903564,city,Plano,addr
+2391903564,street,Fairbourne Circle,addr
+2391903564,housenumber,2600,addr
+2391903568,city,Plano,addr
+2391903568,street,Courtside Lane,addr
+2391903568,housenumber,2601,addr
+2391903571,city,Plano,addr
+2391903571,street,Fairbourne Circle,addr
+2391903571,housenumber,2601,addr
+2391903574,city,Plano,addr
+2391903574,street,Courtside Lane,addr
+2391903574,housenumber,2604,addr
+2391903578,city,Plano,addr
+2391903578,street,Fairbourne Circle,addr
+2391903578,housenumber,2604,addr
+2391903582,city,Plano,addr
+2391903582,street,Courtside Lane,addr
+2391903582,housenumber,2605,addr
+2391903583,city,Plano,addr
+2391903583,street,Fairbourne Circle,addr
+2391903583,housenumber,2605,addr
+2391903585,city,Plano,addr
+2391903585,street,Courtside Lane,addr
+2391903585,housenumber,2608,addr
+2391903589,city,Plano,addr
+2391903589,street,Fairbourne Circle,addr
+2391903589,housenumber,2608,addr
+2391903593,city,Plano,addr
+2391903593,street,Courtside Lane,addr
+2391903593,housenumber,2609,addr
+2391903596,city,Plano,addr
+2391903596,street,Fairbourne Circle,addr
+2391903596,housenumber,2609,addr
+2391903600,city,Plano,addr
+2391903600,street,Courtside Lane,addr
+2391903600,housenumber,2612,addr
+2391903609,city,Plano,addr
+2391903609,street,Fairbourne Circle,addr
+2391903609,housenumber,2612,addr
+2391903612,city,Plano,addr
+2391903612,street,Courtside Lane,addr
+2391903612,housenumber,2613,addr
+2391903616,city,Plano,addr
+2391903616,street,Fairbourne Circle,addr
+2391903616,housenumber,2613,addr
+2391903617,city,Plano,addr
+2391903617,street,Fairbourne Circle,addr
+2391903617,housenumber,2616,addr
+2391903618,city,Plano,addr
+2391903618,street,Fairbourne Circle,addr
+2391903618,housenumber,2617,addr
+2391903619,city,Plano,addr
+2391903619,street,Courtside Lane,addr
+2391903619,housenumber,2620,addr
+2391903620,city,Plano,addr
+2391903620,street,Fairbourne Circle,addr
+2391903620,housenumber,2620,addr
+2391903621,city,Plano,addr
+2391903621,street,Courtside Lane,addr
+2391903621,housenumber,2621,addr
+2391903622,city,Plano,addr
+2391903622,street,Courtside Lane,addr
+2391903622,housenumber,2624,addr
+2391903624,city,Plano,addr
+2391903624,street,Courtside Lane,addr
+2391903624,housenumber,2625,addr
+2391903640,city,Plano,addr
+2391903640,street,Courtside Lane,addr
+2391903640,housenumber,2628,addr
+2391903644,city,Plano,addr
+2391903644,street,Courtside Lane,addr
+2391903644,housenumber,2629,addr
+2391903648,city,Plano,addr
+2391903648,street,Courtside Lane,addr
+2391903648,housenumber,2632,addr
+2391903651,city,Plano,addr
+2391903651,street,Courtside Lane,addr
+2391903651,housenumber,2633,addr
+2391903655,city,Plano,addr
+2391903655,street,Courtside Lane,addr
+2391903655,housenumber,2637,addr
+2391903658,city,Plano,addr
+2391903658,street,Westmoreland Drive,addr
+2391903658,housenumber,4000,addr
+2391903662,city,Plano,addr
+2391903662,street,Westmoreland Drive,addr
+2391903662,housenumber,4001,addr
+2391903666,city,Plano,addr
+2391903666,street,Westmoreland Drive,addr
+2391903666,housenumber,4004,addr
+2391903669,city,Plano,addr
+2391903669,street,Westmoreland Drive,addr
+2391903669,housenumber,4005,addr
+2391903673,city,Plano,addr
+2391903673,street,Westmoreland Drive,addr
+2391903673,housenumber,4009,addr
+2391903676,city,Plano,addr
+2391903676,street,Donnington Drive,addr
+2391903676,housenumber,4100,addr
+2391903680,city,Plano,addr
+2391903680,street,Lantern Light Drive,addr
+2391903680,housenumber,4100,addr
+2391903684,city,Plano,addr
+2391903684,street,Midnight Drive,addr
+2391903684,housenumber,4100,addr
+2391903687,city,Plano,addr
+2391903687,street,Nightfall Drive,addr
+2391903687,housenumber,4100,addr
+2391903690,city,Plano,addr
+2391903690,street,Twilight Trail,addr
+2391903690,housenumber,4100,addr
+2391903694,city,Plano,addr
+2391903694,street,Westmoreland Drive,addr
+2391903694,housenumber,4100,addr
+2391903698,city,Plano,addr
+2391903698,street,Early Morn Drive,addr
+2391903698,housenumber,4101,addr
+2391903701,city,Plano,addr
+2391903701,street,Lantern Light Drive,addr
+2391903701,housenumber,4101,addr
+2391903705,city,Plano,addr
+2391903705,street,Nightfall Drive,addr
+2391903705,housenumber,4101,addr
+2391903708,city,Plano,addr
+2391903708,street,Rockingham Way,addr
+2391903708,housenumber,4101,addr
+2391903712,city,Plano,addr
+2391903712,street,Twilight Trail,addr
+2391903712,housenumber,4101,addr
+2391903715,city,Plano,addr
+2391903715,street,Donnington Drive,addr
+2391903715,housenumber,4104,addr
+2391903719,city,Plano,addr
+2391903719,street,Early Morn Drive,addr
+2391903719,housenumber,4104,addr
+2391903722,city,Plano,addr
+2391903722,street,Lantern Light Drive,addr
+2391903722,housenumber,4104,addr
+2391903725,city,Plano,addr
+2391903725,street,Midnight Drive,addr
+2391903725,housenumber,4104,addr
+2391903729,city,Plano,addr
+2391903729,street,Nightfall Drive,addr
+2391903729,housenumber,4104,addr
+2391903732,city,Plano,addr
+2391903732,street,Twilight Trail,addr
+2391903732,housenumber,4104,addr
+2391903735,city,Plano,addr
+2391903735,street,Westmoreland Drive,addr
+2391903735,housenumber,4104,addr
+2391903738,city,Plano,addr
+2391903738,street,Early Morn Drive,addr
+2391903738,housenumber,4105,addr
+2391903742,city,Plano,addr
+2391903742,street,Lantern Light Drive,addr
+2391903742,housenumber,4105,addr
+2391903746,city,Plano,addr
+2391903746,street,Nightfall Drive,addr
+2391903746,housenumber,4105,addr
+2391903749,city,Plano,addr
+2391903749,street,Rockingham Way,addr
+2391903749,housenumber,4105,addr
+2391903753,city,Plano,addr
+2391903753,street,Twilight Trail,addr
+2391903753,housenumber,4105,addr
+2391903757,city,Plano,addr
+2391903757,street,Donnington Drive,addr
+2391903757,housenumber,4108,addr
+2391903760,city,Plano,addr
+2391903760,street,Early Morn Drive,addr
+2391903760,housenumber,4108,addr
+2391903764,city,Plano,addr
+2391903764,street,Lantern Light Drive,addr
+2391903764,housenumber,4108,addr
+2391903768,city,Plano,addr
+2391903768,street,Midnight Drive,addr
+2391903768,housenumber,4108,addr
+2391903772,city,Plano,addr
+2391903772,street,Nightfall Drive,addr
+2391903772,housenumber,4108,addr
+2391903776,city,Plano,addr
+2391903776,street,Twilight Trail,addr
+2391903776,housenumber,4108,addr
+2391903780,city,Plano,addr
+2391903780,street,Westmoreland Drive,addr
+2391903780,housenumber,4108,addr
+2391903783,city,Plano,addr
+2391903783,street,Donnington Drive,addr
+2391903783,housenumber,4109,addr
+2391903787,city,Plano,addr
+2391903787,street,Early Morn Drive,addr
+2391903787,housenumber,4109,addr
+2391903791,city,Plano,addr
+2391903791,street,Lantern Light Drive,addr
+2391903791,housenumber,4109,addr
+2391903794,city,Plano,addr
+2391903794,street,Nightfall Drive,addr
+2391903794,housenumber,4109,addr
+2391903798,city,Plano,addr
+2391903798,street,Rockingham Way,addr
+2391903798,housenumber,4109,addr
+2391903801,city,Plano,addr
+2391903801,street,Twilight Trail,addr
+2391903801,housenumber,4109,addr
+2391903804,city,Plano,addr
+2391903804,street,Donnington Drive,addr
+2391903804,housenumber,4112,addr
+2391903807,city,Plano,addr
+2391903807,street,Lantern Light Drive,addr
+2391903807,housenumber,4112,addr
+2391903810,city,Plano,addr
+2391903810,street,Midnight Drive,addr
+2391903810,housenumber,4112,addr
+2391903814,city,Plano,addr
+2391903814,street,Nightfall Drive,addr
+2391903814,housenumber,4112,addr
+2391903817,city,Plano,addr
+2391903817,street,Rockingham Way,addr
+2391903817,housenumber,4112,addr
+2391903820,city,Plano,addr
+2391903820,street,Twilight Trail,addr
+2391903820,housenumber,4112,addr
+2391903823,city,Plano,addr
+2391903823,street,Westmoreland Drive,addr
+2391903823,housenumber,4112,addr
+2391903827,city,Plano,addr
+2391903827,street,Donnington Drive,addr
+2391903827,housenumber,4113,addr
+2391903830,city,Plano,addr
+2391903830,street,Early Morn Drive,addr
+2391903830,housenumber,4113,addr
+2391903833,city,Plano,addr
+2391903833,street,Lantern Light Drive,addr
+2391903833,housenumber,4113,addr
+2391903836,city,Plano,addr
+2391903836,street,Nightfall Drive,addr
+2391903836,housenumber,4113,addr
+2391903840,city,Plano,addr
+2391903840,street,Rockingham Way,addr
+2391903840,housenumber,4113,addr
+2391903843,city,Plano,addr
+2391903843,street,Twilight Trail,addr
+2391903843,housenumber,4113,addr
+2391903847,city,Plano,addr
+2391903847,street,Donnington Drive,addr
+2391903847,housenumber,4116,addr
+2391903850,city,Plano,addr
+2391903850,street,Lantern Light Drive,addr
+2391903850,housenumber,4116,addr
+2391903854,city,Plano,addr
+2391903854,street,Midnight Drive,addr
+2391903854,housenumber,4116,addr
+2391903858,city,Plano,addr
+2391903858,street,Nightfall Drive,addr
+2391903858,housenumber,4116,addr
+2391903861,city,Plano,addr
+2391903861,street,Rockingham Way,addr
+2391903861,housenumber,4116,addr
+2391903864,city,Plano,addr
+2391903864,street,Twilight Trail,addr
+2391903864,housenumber,4116,addr
+2391903868,city,Plano,addr
+2391903868,street,Westmoreland Drive,addr
+2391903868,housenumber,4116,addr
+2391903871,city,Plano,addr
+2391903871,street,Donnington Drive,addr
+2391903871,housenumber,4117,addr
+2391903874,city,Plano,addr
+2391903874,street,Early Morn Drive,addr
+2391903874,housenumber,4117,addr
+2391903878,city,Plano,addr
+2391903878,street,Lantern Light Drive,addr
+2391903878,housenumber,4117,addr
+2391903881,city,Plano,addr
+2391903881,street,Nightfall Drive,addr
+2391903881,housenumber,4117,addr
+2391903884,city,Plano,addr
+2391903884,street,Rockingham Way,addr
+2391903884,housenumber,4117,addr
+2391903887,city,Plano,addr
+2391903887,street,Twilight Trail,addr
+2391903887,housenumber,4117,addr
+2391903890,city,Plano,addr
+2391903890,street,Donnington Drive,addr
+2391903890,housenumber,4120,addr
+2391903893,city,Plano,addr
+2391903893,street,Lantern Light Drive,addr
+2391903893,housenumber,4120,addr
+2391903896,city,Plano,addr
+2391903896,street,Midnight Drive,addr
+2391903896,housenumber,4120,addr
+2391903900,city,Plano,addr
+2391903900,street,Nightfall Drive,addr
+2391903900,housenumber,4120,addr
+2391903903,city,Plano,addr
+2391903903,street,Rockingham Way,addr
+2391903903,housenumber,4120,addr
+2391903906,city,Plano,addr
+2391903906,street,Twilight Trail,addr
+2391903906,housenumber,4120,addr
+2391903907,city,Plano,addr
+2391903907,street,Westmoreland Drive,addr
+2391903907,housenumber,4120,addr
+2391903908,city,Plano,addr
+2391903908,street,Donnington Drive,addr
+2391903908,housenumber,4121,addr
+2391903909,city,Plano,addr
+2391903909,street,Early Morn Drive,addr
+2391903909,housenumber,4121,addr
+2391903910,city,Plano,addr
+2391903910,street,Lantern Light Drive,addr
+2391903910,housenumber,4121,addr
+2391903911,city,Plano,addr
+2391903911,street,Nightfall Drive,addr
+2391903911,housenumber,4121,addr
+2391903912,city,Plano,addr
+2391903912,street,Rockingham Way,addr
+2391903912,housenumber,4121,addr
+2391903913,city,Plano,addr
+2391903913,street,Twilight Trail,addr
+2391903913,housenumber,4121,addr
+2391903914,city,Plano,addr
+2391903914,street,Donnington Drive,addr
+2391903914,housenumber,4124,addr
+2391903915,city,Plano,addr
+2391903915,street,Lantern Light Drive,addr
+2391903915,housenumber,4124,addr
+2391903916,city,Plano,addr
+2391903916,street,Nightfall Drive,addr
+2391903916,housenumber,4124,addr
+2391903917,city,Plano,addr
+2391903917,street,Rockingham Way,addr
+2391903917,housenumber,4124,addr
+2391903918,city,Plano,addr
+2391903918,street,Twilight Trail,addr
+2391903918,housenumber,4124,addr
+2391903919,city,Plano,addr
+2391903919,street,Westmoreland Drive,addr
+2391903919,housenumber,4124,addr
+2391903920,city,Plano,addr
+2391903920,street,Donnington Drive,addr
+2391903920,housenumber,4125,addr
+2391903921,city,Plano,addr
+2391903921,street,Lantern Light Drive,addr
+2391903921,housenumber,4125,addr
+2391903922,city,Plano,addr
+2391903922,street,Nightfall Drive,addr
+2391903922,housenumber,4125,addr
+2391903923,city,Plano,addr
+2391903923,street,Twilight Trail,addr
+2391903923,housenumber,4125,addr
+2391903924,city,Plano,addr
+2391903924,street,Lantern Light Drive,addr
+2391903924,housenumber,4128,addr
+2391903925,city,Plano,addr
+2391903925,street,Nightfall Drive,addr
+2391903925,housenumber,4128,addr
+2391903926,city,Plano,addr
+2391903926,street,Twilight Trail,addr
+2391903926,housenumber,4128,addr
+2391903927,city,Plano,addr
+2391903927,street,Westmoreland Drive,addr
+2391903927,housenumber,4128,addr
+2391903928,city,Plano,addr
+2391903928,street,Lantern Light Drive,addr
+2391903928,housenumber,4129,addr
+2391903929,city,Plano,addr
+2391903929,street,Nightfall Drive,addr
+2391903929,housenumber,4129,addr
+2391903930,city,Plano,addr
+2391903930,street,Westmoreland Drive,addr
+2391903930,housenumber,4132,addr
+2391903931,city,Plano,addr
+2391903931,street,Donnington Drive,addr
+2391903931,housenumber,4200,addr
+2391903932,city,Plano,addr
+2391903932,street,Early Morn Drive,addr
+2391903932,housenumber,4200,addr
+2391903934,city,Plano,addr
+2391903934,street,Midnight Drive,addr
+2391903934,housenumber,4200,addr
+2391903935,city,Plano,addr
+2391903935,street,Nightfall Drive,addr
+2391903935,housenumber,4200,addr
+2391903936,city,Plano,addr
+2391903936,street,Rockingham Way,addr
+2391903936,housenumber,4200,addr
+2391903937,city,Plano,addr
+2391903937,street,Twilight Trail,addr
+2391903937,housenumber,4200,addr
+2391903938,city,Plano,addr
+2391903938,street,Donnington Drive,addr
+2391903938,housenumber,4201,addr
+2391903939,city,Plano,addr
+2391903939,street,Early Morn Drive,addr
+2391903939,housenumber,4201,addr
+2391903941,city,Plano,addr
+2391903941,street,Midnight Drive,addr
+2391903941,housenumber,4201,addr
+2391903943,city,Plano,addr
+2391903943,street,Rockingham Way,addr
+2391903943,housenumber,4201,addr
+2391903945,city,Plano,addr
+2391903945,street,Donnington Drive,addr
+2391903945,housenumber,4204,addr
+2391903946,city,Plano,addr
+2391903946,street,Early Morn Drive,addr
+2391903946,housenumber,4204,addr
+2391903948,city,Plano,addr
+2391903948,street,Midnight Drive,addr
+2391903948,housenumber,4204,addr
+2391903950,city,Plano,addr
+2391903950,street,Rockingham Way,addr
+2391903950,housenumber,4204,addr
+2391903952,city,Plano,addr
+2391903952,street,Donnington Drive,addr
+2391903952,housenumber,4205,addr
+2391903953,city,Plano,addr
+2391903953,street,Early Morn Drive,addr
+2391903953,housenumber,4205,addr
+2391903957,city,Plano,addr
+2391903957,street,Rockingham Way,addr
+2391903957,housenumber,4205,addr
+2391903960,city,Plano,addr
+2391903960,street,Early Morn Drive,addr
+2391903960,housenumber,4208,addr
+2391903962,city,Plano,addr
+2391903962,street,Midnight Drive,addr
+2391903962,housenumber,4208,addr
+2391903964,city,Plano,addr
+2391903964,street,Rockingham Way,addr
+2391903964,housenumber,4208,addr
+2391903967,city,Plano,addr
+2391903967,street,Early Morn Drive,addr
+2391903967,housenumber,4209,addr
+2391903971,city,Plano,addr
+2391903971,street,Rockingham Way,addr
+2391903971,housenumber,4209,addr
+2391903979,city,Plano,addr
+2391903979,street,Rockingham Way,addr
+2391903979,housenumber,4212,addr
+2391903986,city,Plano,addr
+2391903986,street,Rockingham Way,addr
+2391903986,housenumber,4213,addr
+2412398268,name,Target,regular
+2412398268,shop,department_store,regular
+2412398269,name,Petco,regular
+2412398269,shop,pet,regular
+2412398270,name,Chick-fil-A,regular
+2412398270,amenity,fast_food,regular
+2412398270,cuisine,chicken,regular
+2412398270,city,Garland,addr
+2412398270,state,TEXAS,addr
+2412398270,street,President George Bush Highway,addr
+2412398270,postcode,75044,addr
+2412398270,housenumber,5425,addr
+2412398271,name,Cheddar's Casual Cafe,regular
+2412398271,amenity,restaurant,regular
+2412398272,name,Sonic,regular
+2412398272,phone,1-972-495-1243,regular
+2412398272,amenity,fast_food,regular
+2412398272,cuisine,burger,regular
+2412398272,website,sonicdrivein.com,regular
+2412398273,name,IHOP,regular
+2412398273,amenity,restaurant,regular
+2412398273,cuisine,breakfast,regular
+2412398274,name,Olive Garden,regular
+2412398274,amenity,restaurant,regular
+2412398274,cuisine,italian,regular
+2412398275,name,Outback Steakhouse,regular
+2412398275,amenity,restaurant,regular
+2412398276,name,Chuck E. Cheese,regular
+2412398276,amenity,restaurant,regular
+2412398277,name,Hyatt Place,regular
+2412398277,tourism,hotel,regular
+2412398277,city,Garland,addr
+2412398277,street,President George Bush Highway,addr
+2412398277,postcode,75040,addr
+2412398277,housenumber,5101,addr
+2412398278,name,Bank of America,regular
+2412398278,amenity,bank,regular
+2412743618,highway,turning_circle,regular
+2412743631,highway,turning_circle,regular
+2412743645,highway,turning_circle,regular
+2412743652,highway,turning_circle,regular
+2412744514,highway,turning_circle,regular
+2423373021,name,Auto Group of Plano,regular
+2423373021,shop,car,regular
+2423373021,website,www.autogroupofplano.com,regular
+2423373021,street,Avenue K.,addr
+2423373021,postcode,75074,addr
+2423373021,housenumber,1302,addr
+2432486764,name,Highpointe Living Center - Garland,regular
+2432486764,city,Garland,addr
+2432486764,street,West Campbell Road,addr
+2432486764,postcode,75044,addr
+2500267588,name,Plano Harrington Public Library,regular
+2500267588,amenity,library,regular
+2500270051,name,Krogers Grocery Store,regular
+2500270051,shop,supermarket,regular
+2500270159,name,McDonald's,regular
+2500270159,amenity,fast_food,regular
+2500270159,cuisine,burger,regular
+2500270159,website,http://www.mcdonalds.com/,regular
+2500270159,drive_through,yes,regular
+2501328597,name,Tonzter Technologies,regular
+2501328597,phone,214-620-0630,regular
+2501328597,website,http://tonzter.com,regular
+2550493670,name,Business In The Black,regular
+2550493670,note,Business In The Black is a Dallas Texas based web design company that specializes in building powerful websites for business and personal use using WordPress.,regular
+2550493670,website,http://businessintheblack.com/,regular
+2550493670,city,Allen TX,addr
+2550493670,street,Jupiter Road,addr
+2550493670,postcode,75002,addr
+2550493670,bitcoin,yes,payment
+2550493670,housenumber,1500 S,addr
+2585335961,highway,turning_circle,regular
+2585335997,highway,turning_circle,regular
+2585335999,highway,turning_circle,regular
+2585336004,highway,turning_circle,regular
+2585403766,highway,turning_circle,regular
+2585404105,highway,turning_circle,regular
+2585404110,highway,turning_circle,regular
+2585404112,highway,turning_circle,regular
+2585404126,highway,turning_circle,regular
+2585404134,highway,turning_circle,regular
+2585404167,highway,turning_circle,regular
+2585404185,highway,turning_circle,regular
+2585447212,highway,turning_circle,regular
+2585452504,highway,turning_circle,regular
+2585458742,highway,passing_place,regular
+2585458743,highway,turning_circle,regular
+2585458746,highway,turning_circle,regular
+2585458749,highway,passing_place,regular
+2596771183,name,Starbucks,regular
+2596771183,phone,972-480-9504,regular
+2596771183,source,I have been here,regular
+2596771183,amenity,cafe,regular
+2596771183,website,http://www.starbucks.com/store/17995/us/renner-northstar/4151-east-renner-road-richardson-tx-750822810,regular
+2596771183,city,Richardson,addr
+2596771183,wheelchair,yes,regular
+2596771183,street,East Renner Road,addr
+2596771183,postcode,75082,addr
+2596771183,housenumber,4151,addr
+2621030299,power,tower,regular
+2621030309,power,tower,regular
+2621030324,power,tower,regular
+2621030347,power,tower,regular
+2621030349,power,tower,regular
+2621030352,power,tower,regular
+2621030366,power,tower,regular
+2621030372,power,tower,regular
+2621030381,power,tower,regular
+2621030382,power,tower,regular
+2621030394,power,tower,regular
+2621030412,power,tower,regular
+2621030414,power,tower,regular
+2621030416,power,tower,regular
+2621030418,power,tower,regular
+2621030440,power,tower,regular
+2626658672,name,The Church of Jesus Christ of Latter-day Saints,regular
+2626658672,amenity,place_of_worship,regular
+2626658672,religion,christian,regular
+2626658672,city,Plano,addr
+2626658672,street,Los Rios Boulevard,addr
+2626658672,denomination,mormon,regular
+2626658672,postcode,75074,addr
+2626658672,housenumber,3401,addr
+2631134736,name,Artisan Vapor Company,regular
+2631134736,phone,1-972-881-8273,regular
+2631134736,website,http://www.artisanvaporcompany.com/,regular
+2631134736,city,Plano,addr
+2631134736,street,East 15th Street,addr
+2631134736,postcode,TX 75074,addr
+2631134736,bitcoin,yes,payment
+2631134736,housenumber,908,addr
+2639871896,name,Eurosport Automotive,regular
+2639871896,phone,972-758-7576,regular
+2639871896,source,http://eurosportautomotive.com/,regular
+2639871896,city,Plano,addr
+2639871896,street,Coit Road,addr
+2639871896,postcode,75075,addr
+2639871896,housename,Eurosport Automotive,addr
+2639871896,housenumber,221,addr
+2640324939,name,Plano Post Office - Wildcat Station,regular
+2640324939,amenity,post_box,regular
+2640324939,operator,United States Postal Service,regular
+2640324939,drive_through,yes,regular
+2640324940,name,Plano Post Office - Wildcat Station,regular
+2640324940,amenity,post_box,regular
+2640324940,operator,United States Postal Service,regular
+2640324940,drive_through,yes,regular
+2641703929,name,Plano Post Office - Downtown Station,regular
+2641703929,amenity,post_box,regular
+2641703929,operator,United States Postal Service,regular
+2641703929,drive_through,yes,regular
+2641703930,name,Plano Post Office - Downtown Station,regular
+2641703930,amenity,post_box,regular
+2641703930,operator,United States Postal Service,regular
+2641703930,drive_through,yes,regular
+2641703931,name,Plano Post Office - Downtown Station,regular
+2641703931,amenity,post_box,regular
+2641703931,operator,United States Postal Service,regular
+2641703931,drive_through,yes,regular
+2641703932,name,Plano Post Office - Downtown Station,regular
+2641703932,amenity,post_box,regular
+2641703932,operator,United States Postal Service,regular
+2641703932,drive_through,yes,regular
+2641721837,name,Plano Post Office,regular
+2641721837,amenity,post_box,regular
+2641721837,operator,United States Postal Service,regular
+2641721837,drive_through,yes,regular
+2641730695,name,Plano Post Office - Coit Station,regular
+2641730695,amenity,post_box,regular
+2641730695,operator,United States Postal Service,regular
+2641730695,drive_through,yes,regular
+2641730696,name,Plano Post Office - Coit Station,regular
+2641730696,amenity,post_box,regular
+2641730696,operator,United States Postal Service,regular
+2641730696,drive_through,yes,regular
+2641762995,name,Richardson Post Office,regular
+2641762995,amenity,post_box,regular
+2641762995,operator,United States Postal Service,regular
+2641762995,drive_through,yes,regular
+2641762996,name,Richardson Post Office,regular
+2641762996,amenity,post_box,regular
+2641762996,operator,United States Postal Service,regular
+2641762996,drive_through,yes,regular
+2642232982,name,Wingate by Wyndham,regular
+2642232982,source,http://www.wingatehotels.com/hotels/texas/richardson/wingate-by-wyndham-richardson/hotel-overview?reg=Local-_-all-_-WIN-_-all&cid=IP_Local&wid=local,regular
+2642232982,tourism,hotel,regular
+2642232982,ev_charger,Two Blink chargers (L2),regular
+2659624037,name,Starbucks,regular
+2659624037,amenity,cafe,regular
+2659624037,cuisine,coffee_shop,regular
+2659624037,city,Garland,addr
+2659624037,street,Arapaho Road,addr
+2659624037,postcode,75044,addr
+2659624037,opening_hours,5:30-21:00,regular
+2659624037,internet_access,yes,regular
+2659624037,housenumber,2645,addr
+2677238774,name,The Filmore Pub,regular
+2677238774,amenity,pub,regular
+2677238774,city,Plano,addr
+2677238774,street,East 15th Street,addr
+2677238774,postcode,75074,addr
+2677238774,housenumber,1004,addr
+2677249378,name,Kelly's Eastside,regular
+2677249378,amenity,restaurant,regular
+2677249378,website,KellysEastside.com,regular
+2677249378,street,K Avenue,addr
+2677249378,postcode,75074,addr
+2677249378,housenumber,1422,addr
+2704989873,name,Biblical Community Church,regular
+2704989873,phone,972-231-6344,regular
+2704989873,amenity,place_of_worship,regular
+2704989873,website,http://www.biblicalcommunity.com,regular
+2704989873,religion,christian,regular
+2704989873,city,Richardson,addr
+2704989873,street,West Lookout Drive,addr
+2704989873,denomination,protestant,regular
+2704989873,postcode,75080,addr
+2704989873,housenumber,810,addr
+2771238129,highway,turning_circle,regular
+2771352573,highway,turning_circle,regular
+2789019394,name,Xin Xian Restaurant,regular
+2789019394,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2789019394,amenity,restaurant,regular
+2789019394,cuisine,chinese,regular
+2789019394,website,http://xinxianrestaurant.com/,regular
+2789019394,street,North Jupiter Road,addr
+2789019394,description,BTC payment via Menufy.,regular
+2789019394,phone,972-414-0880,contact
+2789019394,housenumber,5010,addr
+2810294207,name,Angelo & Vito's Pizzeria,regular
+2810294207,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810294207,amenity,restaurant,regular
+2810294207,cuisine,pizza,regular
+2810294207,website,http://aandvpizzeriaplano.menufy.com/,regular
+2810294207,street,Independence Parkway,addr
+2810294207,description,BTC payment via Menufy.,regular
+2810294207,phone,972-208-4205,contact
+2810294207,housenumber,7000,addr
+2810295658,name,Burger Break,regular
+2810295658,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810295658,amenity,restaurant,regular
+2810295658,cuisine,burger,regular
+2810295658,website,http://burgerbreakplano.com/,regular
+2810295658,street,West Spring Creek Parkway,addr
+2810295658,description,BTC payment via Menufy.,regular
+2810295658,phone,972-517-5511,contact
+2810295658,housenumber,901,addr
+2810296409,name,Chettinaad Palace,regular
+2810296409,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810296409,amenity,restaurant,regular
+2810296409,cuisine,regional,regular
+2810296409,website,http://chettinaadpalace.menufy.com/,regular
+2810296409,street,Central Expressway,addr
+2810296409,description,BTC payment via Menufy.,regular
+2810296409,phone,469-229-9100,contact
+2810296409,housenumber,2205,addr
+2810297680,name,China Ocean,regular
+2810297680,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810297680,amenity,restaurant,regular
+2810297680,cuisine,chinese,regular
+2810297680,website,http://planochinaocean.com/,regular
+2810297680,street,West Spring Creek Parkway,addr
+2810297680,description,BTC payment via Menufy.,regular
+2810297680,phone,972-517-6938,contact
+2810297680,housenumber,2011,addr
+2810298936,name,Geisha Steak & Sushi,regular
+2810298936,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810298936,amenity,restaurant,regular
+2810298936,cuisine,sushi,regular
+2810298936,website,http://geishaplano.menufy.com/,regular
+2810298936,street,President George Bush Highway,addr
+2810298936,description,BTC payment via Menufy.,regular
+2810298936,phone,469-467-3944,contact
+2810298936,housenumber,3801,addr
+2810299219,name,Joe's Pizza Pasta,regular
+2810299219,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810299219,amenity,restaurant,regular
+2810299219,cuisine,pizza,regular
+2810299219,website,http://myjoes.menufy.com/,regular
+2810299219,street,West Spring Creek Parkway,addr
+2810299219,description,BTC payment via Menufy.,regular
+2810299219,phone,972-527-2002,contact
+2810299219,housenumber,2011,addr
+2810299288,name,Mei Mei China Restaurant,regular
+2810299288,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810299288,amenity,restaurant,regular
+2810299288,cuisine,chinese,regular
+2810299288,website,http://meimeichinese.com/,regular
+2810299288,street,Legacy Drive,addr
+2810299288,description,BTC payment via Menufy.,regular
+2810299288,phone,972-527-5888,contact
+2810299288,housenumber,405,addr
+2810299467,name,Golden Chick West Plano,regular
+2810299467,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810299467,amenity,restaurant,regular
+2810299467,cuisine,chicken,regular
+2810299467,website,http://goldenchickwestplano.com/,regular
+2810299467,street,Independence Parkway,addr
+2810299467,description,BTC payment via Menufy.,regular
+2810299467,phone,972-618-0928,contact
+2810299467,housenumber,6100,addr
+2810302437,name,Lite Wok,regular
+2810302437,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810302437,amenity,restaurant,regular
+2810302437,cuisine,sushi,regular
+2810302437,website,http://litewokplano.com/,regular
+2810302437,street,Los Rios Boulevard,addr
+2810302437,description,BTC payment via Menufy.,regular
+2810302437,phone,972-423-6828,contact
+2810302437,housenumber,2320,addr
+2810303611,name,Mr. Tofu,regular
+2810303611,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810303611,amenity,restaurant,regular
+2810303611,cuisine,asian,regular
+2810303611,website,http://mr-tofu.com/,regular
+2810303611,street,West Spring Creek Parkway,addr
+2810303611,description,BTC payment via Menufy.,regular
+2810303611,phone,972-398-9344,contact
+2810303611,housenumber,151,addr
+2810307276,name,Rice N Roti,regular
+2810307276,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810307276,amenity,restaurant,regular
+2810307276,cuisine,regional,regular
+2810307276,website,http://ricenroti.menufy.com/,regular
+2810307276,street,Coit Road,addr
+2810307276,description,BTC payment via Menufy.,regular
+2810307276,phone,469-467-9525,contact
+2810307276,housenumber,2411,addr
+2810307747,name,Skillman Wok,regular
+2810307747,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810307747,amenity,restaurant,regular
+2810307747,cuisine,wok,regular
+2810307747,website,http://skillmanwokplano.menufy.com/,regular
+2810307747,street,Coit Road,addr
+2810307747,description,BTC payment via Menufy.,regular
+2810307747,phone,972-612-8300,contact
+2810307747,housenumber,3304,addr
+2810313435,name,Oriental Express,regular
+2810313435,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810313435,amenity,restaurant,regular
+2810313435,cuisine,chinese,regular
+2810313435,website,http://orientalexpressrichardson.com/,regular
+2810313435,street,North Plano Road,addr
+2810313435,description,BTC payment via Menufy.,regular
+2810313435,phone,972-644-6721,contact
+2810313435,housenumber,1600,addr
+2810313857,name,Apollonia's Italian Kitchen,regular
+2810313857,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810313857,amenity,restaurant,regular
+2810313857,cuisine,italian,regular
+2810313857,website,http://apolloniasitaliankitchen.menufy.com/,regular
+2810313857,street,Shire Boulevard,addr
+2810313857,description,BTC payment via Menufy.,regular
+2810313857,phone,469-209-0500,contact
+2810313857,housenumber,3610,addr
+2810322504,name,The China Express,regular
+2810322504,source,http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/,regular
+2810322504,amenity,restaurant,regular
+2810322504,cuisine,chinese,regular
+2810322504,website,http://thechinaexpresstx.com/,regular
+2810322504,street,West Arapaho Road,addr
+2810322504,description,BTC payment via Menufy.,regular
+2810322504,phone,972-671-6969,contact
+2810322504,housenumber,819,addr
+2814738728,name,Schlotzsky's Deli,regular
+2814738728,amenity,fast_food,regular
+2814738728,cuisine,sandwich,regular
+2814738728,city,Plano,addr
+2814738728,street,Central Expressway,addr
+2814738728,postcode,75023,addr
+2814738728,housenumber,5045,addr
+2814738739,name,Payless Shoe Source,regular
+2814738739,shop,shoes,regular
+2814740644,name,Schlotzsky's Deli,regular
+2814740644,amenity,fast_food,regular
+2814740644,cuisine,sandwich,regular
+2814740644,city,Plano,addr
+2814740644,street,Jupiter Road,addr
+2814740644,postcode,75074,addr
+2814740644,housenumber,1405,addr
+2814742592,name,KFC,regular
+2814742592,amenity,fast_food,regular
+2814742592,cuisine,chicken,regular
+2814747521,name,Schlotzsky's Deli,regular
+2814747521,amenity,fast_food,regular
+2814747521,cuisine,sandwich,regular
+2814747521,city,Plano,addr
+2814747521,street,Independence Parkway,addr
+2814747521,postcode,75075,addr
+2814747521,housenumber,3100,addr
+2821900115,name,Schimelpfenig Public Library,regular
+2821900115,amenity,library,regular
+2821900115,city,Plano,addr
+2821900115,street,Custer Road,addr
+2821900115,postcode,75023,addr
+2821900115,housenumber,5024,addr
+2823221727,name,Movement Marketing and Web Design,regular
+2823221727,phone,469-215-1,regular
+2823221727,office,company,regular
+2823221727,website,http://www.movementwebmarketing.com,regular
+2823221727,bitcoin,yes,payment
+2844119068,highway,traffic_signals,regular
+2844119068,traffic_signals,signal,regular
+2844119081,highway,traffic_signals,regular
+2844119081,traffic_signals,signal,regular
+2844126379,railway,level_crossing,regular
+2844618945,height,89 m,regular
+2844618945,man_made,antenna,regular
+2847065202,highway,turning_circle,regular
+2882782088,power,pole,regular
+2882782089,power,pole,regular
+2882782090,power,pole,regular
+2882782091,power,pole,regular
+2882782092,power,pole,regular
+2882782093,power,pole,regular
+2882782094,power,pole,regular
+2882782095,power,pole,regular
+2882782096,power,pole,regular
+2882782097,power,pole,regular
+2882782098,power,pole,regular
+2882782099,power,pole,regular
+2882782100,power,pole,regular
+2882782101,power,pole,regular
+2882782102,power,pole,regular
+2882782103,power,pole,regular
+2882782104,power,pole,regular
+2882782105,power,pole,regular
+2882782106,power,pole,regular
+2882782107,power,pole,regular
+2882782114,power,pole,regular
+2882782115,power,pole,regular
+2882782116,power,pole,regular
+2882782117,power,pole,regular
+2882782118,power,pole,regular
+2882782119,power,pole,regular
+2882782120,power,pole,regular
+2882782121,power,pole,regular
+2882782122,power,pole,regular
+2882782123,power,pole,regular
+2882782124,power,pole,regular
+2882782125,power,pole,regular
+2882782126,power,pole,regular
+2882782127,power,pole,regular
+2882782128,power,pole,regular
+2882782129,power,pole,regular
+2882782130,power,pole,regular
+2882782131,power,pole,regular
+2882782132,power,pole,regular
+2882782133,power,pole,regular
+2882782134,power,pole,regular
+2882782135,power,pole,regular
+2882782136,power,pole,regular
+2882782137,power,pole,regular
+2882782138,power,pole,regular
+2882782139,power,pole,regular
+2882782140,power,pole,regular
+2882782141,power,pole,regular
+2882782142,power,pole,regular
+2882782143,power,pole,regular
+2882782144,power,pole,regular
+2882782145,power,pole,regular
+2882782146,power,pole,regular
+2882782147,power,pole,regular
+2882782148,power,pole,regular
+2882782149,power,pole,regular
+2882782150,power,pole,regular
+2882782151,power,pole,regular
+2882782152,power,pole,regular
+2882782153,power,pole,regular
+2882782154,power,pole,regular
+2882782155,power,pole,regular
+2882782156,power,pole,regular
+2882782157,power,pole,regular
+2882782158,power,pole,regular
+2882782159,power,pole,regular
+2882782160,power,pole,regular
+2882782161,power,pole,regular
+2882785142,power,tower,regular
+2882785143,power,tower,regular
+2882785144,power,tower,regular
+2882785145,power,tower,regular
+2882785146,power,tower,regular
+2882785147,power,tower,regular
+2882785148,power,tower,regular
+2882785149,power,tower,regular
+2882785150,power,tower,regular
+2882785151,power,tower,regular
+2882785152,power,tower,regular
+2882785153,power,tower,regular
+2882785154,power,tower,regular
+2882785155,power,tower,regular
+2882785156,power,tower,regular
+2882785157,power,tower,regular
+2882785158,power,tower,regular
+2882785159,power,tower,regular
+2882785160,power,tower,regular
+2882785161,power,tower,regular
+2882785168,power,tower,regular
+2882785169,power,tower,regular
+2882785170,power,tower,regular
+2882785171,power,tower,regular
+2882785172,power,tower,regular
+2882785173,power,tower,regular
+2882785174,power,tower,regular
+2882785175,power,tower,regular
+2882785176,power,tower,regular
+2882785177,power,tower,regular
+2882785178,power,tower,regular
+2882785179,power,tower,regular
+2882785180,power,tower,regular
+2882785181,power,tower,regular
+2883949206,highway,turning_circle,regular
+2919705746,highway,traffic_signals,regular
+2919705746,crossing,traffic_signals,regular
+2919705747,highway,traffic_signals,regular
+2919705747,crossing,traffic_signals,regular
+2919705749,highway,traffic_signals,regular
+2919705749,crossing,traffic_signals,regular
+2919705751,highway,traffic_signals,regular
+2919705751,crossing,traffic_signals,regular
+2919705752,highway,traffic_signals,regular
+2919705752,crossing,traffic_signals,regular
+2919705753,highway,traffic_signals,regular
+2919705754,highway,traffic_signals,regular
+2919705754,crossing,traffic_signals,regular
+2919705755,highway,traffic_signals,regular
+2919705755,crossing,traffic_signals,regular
+2919705755,direction,backward,traffic_signals
+2919705756,highway,traffic_signals,regular
+2919705756,crossing,traffic_signals,regular
+2919705759,highway,traffic_signals,regular
+2919705759,crossing,traffic_signals,regular
+2919705762,highway,traffic_signals,regular
+2919705762,crossing,traffic_signals,regular
+2919705780,brand,Kroger,regular
+2919705780,amenity,fuel,regular
+2934938856,crossing,traffic_signals,regular
+2934938856,highway,traffic_signals,regular
+2934938880,crossing,traffic_signals,regular
+2934938880,highway,traffic_signals,regular
+2934938881,highway,traffic_signals,regular
+2934938909,highway,traffic_signals,regular
+2934938909,crossing,traffic_signals,regular
+2934938910,highway,traffic_signals,regular
+2934938910,crossing,traffic_signals,regular
+2934938912,highway,traffic_signals,regular
+2934938912,crossing,traffic_signals,regular
+2934938913,highway,traffic_signals,regular
+2934938913,crossing,traffic_signals,regular
+2941379595,name,India Bazaar,regular
+2941379595,shop,supermarket,regular
+2941379595,opening_hours,Mo-Su 08:00-23:00,regular
+2957599013,name,Martin Chiropractic,regular
+2957599013,amenity,doctors,regular
+2980404578,name,Firestone Complete Auto Care,regular
+2980404578,shop,car_repair,regular
+2980404578,phone,972-905-4464,regular
+2980404578,city,Plano,addr
+2980404578,street,Coit Road,addr
+2980404578,postcode,75023,addr
+2980404578,opening_hours,Mo-Sa 07:00-19:00; Su 09:00-17:00,regular
+2980404578,housenumber,6828,addr
+2980404580,name,KFC,regular
+2980404580,amenity,fast_food,regular
+2980404580,cuisine,chicken,regular
+2980404583,fax,972-398-1155,regular
+2980404583,name,Patel Brothers,regular
+2980404583,shop,supermarket,regular
+2980404583,phone,972-398-1166,regular
+2980404583,website,http://www.patelbrothersirving.com/,regular
+2980404585,name,Sprouts Farmer Market,regular
+2980404585,shop,supermarket,regular
+2980404585,phone,972-618-8902,regular
+2980404585,website,https://www.sprouts.com,regular
+2980404585,opening_hours,Mo-Su 07:00-22:00,regular
+2980404586,name,Texas Family Fitness,regular
+2980404586,leisure,fitness_centre,regular
+2980404587,name,Walgreens,regular
+2980404587,phone,972-491-5677,regular
+2980404587,amenity,pharmacy,regular
+2980404587,website,http://www.walgreens.com/,regular
+2980404587,city,Plano,addr
+2980404587,dispensing,yes,regular
+2980404587,street,Legacy Drive,addr
+2980404587,postcode,75024,addr
+2980404587,opening_hours,Mo-Su 08:00-22:00,regular
+2980404587,housenumber,4130,addr
+2980404588,atm,yes,regular
+2980404588,name,Wells Fargo,regular
+2980404588,amenity,bank,regular
+2980404589,highway,traffic_signals,regular
+2980404589,crossing,traffic_signals,regular
+2980404590,highway,traffic_signals,regular
+2980404590,crossing,traffic_signals,regular
+2980404590,direction,forward,traffic_signals
+2980404591,highway,traffic_signals,regular
+2980404605,brand,Texaco,regular
+2980404605,amenity,fuel,regular
+2980404607,name,Chevron,regular
+2980404607,brand,Chevron,regular
+2980404607,amenity,fuel,regular
+3009965824,name,Frisco Plumbing,regular
+3009965824,note,Our Frisco TX plumbing team is available 24/7 for all of your commercial and residential plumbing emergencies. Call us immediately!,regular
+3009965824,phone,972-294-6524,regular
+3009965824,website,http://www.frisco-plumbing.com,regular
+3009965824,city,Plano,addr
+3009965824,street,Avenue N Ste 3,addr
+3009965824,postcode,75074,addr
+3009965824,housenumber,1209,addr
+3011846279,name,Great Clips,regular
+3011846279,shop,hairdresser,regular
+3014447891,highway,crossing,regular
+3014447891,crossing,zebra,regular
+3014447891,sloped_curb,0,regular
+3014447891,tactile_paving,no,regular
+3014447893,highway,crossing,regular
+3014447893,crossing,zebra,regular
+3023050342,name,Mooyah Burgers Fries & Shakes,regular
+3023050342,amenity,fast_food,regular
+3023050342,city,Richardson,addr
+3023050342,unit,130,addr
+3023050342,street,North Coit Road,addr
+3023050342,postcode,75080,addr
+3023050342,opening_hours,11:00-22:00,regular
+3023050342,housenumber,2160,addr
+3079490774,barrier,block,regular
+3079490962,barrier,block,regular
+3079491744,barrier,block,regular
+3079493337,railway,level_crossing,regular
+3079493568,barrier,block,regular
+3079493569,railway,level_crossing,regular
+3079495235,railway,level_crossing,regular
+3079497337,railway,level_crossing,regular
+3079501833,ref,30,regular
+3079501833,highway,motorway_junction,regular
+3098675416,name,Bunkies Donuts,regular
+3098675416,shop,bakery,regular
+3098675417,name,Frankie's Mexican Cuisine,regular
+3098675417,amenity,restaurant,regular
+3098675417,cuisine,mexican,regular
+3098675418,name,Marcus Cafe,regular
+3098675418,amenity,restaurant,regular
+3098675418,cuisine,italian,regular
+3098675419,name,Shadys Burger Joint,regular
+3098675419,amenity,restaurant,regular
+3098675419,cuisine,burger,regular
+3101312754,name,Starbucks,regular
+3101312754,amenity,cafe,regular
+3101312755,name,Wendy's,regular
+3101312755,amenity,fast_food,regular
+3103224666,highway,turning_circle,regular
+3103224810,building,church,regular
+3104723808,junction,roundabout,regular
+3104900386,amenity,post_box,regular
+3106292984,name,Freebirds,regular
+3106292984,amenity,restaurant,regular
+3106292984,cuisine,mexican,regular
+3106292986,name,Sawadika Thai,regular
+3106292986,amenity,restaurant,regular
+3106292986,cuisine,thai,regular
+3112833453,name,Subway,regular
+3112833453,amenity,fast_food,regular
+3113762571,name,Papa Murphy's,regular
+3113762571,street,Arapaho,addr
+3142070374,name,Chapman Air & Heat,regular
+3142070374,note,"Suite 125. Air Conditioning repair, air conditioning service. Trane Air Conditioning Sales and Installations.",regular
+3142070374,phone,1-214-340-4999,regular
+3142070374,smoking,outside,regular
+3142070374,website,http://www.chapmanair.com,regular
+3142070374,building,commercial,regular
+3142070374,city,Plano,addr
+3142070374,wheelchair,yes,regular
+3142070374,street,Silverstone Drive,addr
+3142070374,postcode,75023,addr
+3142070374,housenumber,3400,addr
+3148129348,amenity,post_box,regular
+3207009294,name,Conoco,regular
+3207009294,amenity,fuel,regular
+3207009420,name,Valero,regular
+3207009420,amenity,fuel,regular
+3224732261,name,Community Unitarian Universalist Church,regular
+3224732261,phone,972-424-8989,regular
+3224732261,amenity,place_of_worship,regular
+3224732261,website,http://www.communityuuchurch.org/,regular
+3224732261,religion,unitarian_universalist,regular
+3224732261,city,Plano,addr
+3224732261,street,East Parker Road,addr
+3224732261,postcode,75074,addr
+3224732261,housenumber,2875,addr
+3269736979,highway,traffic_signals,regular
+3269736979,crossing,traffic_signals,regular
+3269736981,highway,traffic_signals,regular
+3269736981,crossing,traffic_signals,regular
+3269736987,highway,traffic_signals,regular
+3269736987,crossing,traffic_signals,regular
+3269736988,highway,traffic_signals,regular
+3269736988,crossing,traffic_signals,regular
+3269736994,brand,Shell,regular
+3269736994,amenity,fuel,regular
+3269736995,brand,Chevron,regular
+3269736995,amenity,fuel,regular
+3269737019,highway,traffic_signals,regular
+3269737019,crossing,traffic_signals,regular
+3269737020,highway,traffic_signals,regular
+3269737020,crossing,traffic_signals,regular
+3269737022,highway,traffic_signals,regular
+3269737022,crossing,traffic_signals,regular
+3269737031,brand,Chevron,regular
+3269737031,amenity,fuel,regular
+3269737051,crossing,traffic_signals,regular
+3269737051,highway,traffic_signals,regular
+3269737052,crossing,traffic_signals,regular
+3269737052,highway,traffic_signals,regular
+3269737053,highway,traffic_signals,regular
+3269737053,crossing,traffic_signals,regular
+3269737055,highway,traffic_signals,regular
+3269737055,crossing,traffic_signals,regular
+3269737056,highway,traffic_signals,regular
+3269737056,crossing,traffic_signals,regular
+3269737059,highway,traffic_signals,regular
+3269737059,crossing,traffic_signals,regular
+3269737060,highway,traffic_signals,regular
+3269737060,crossing,traffic_signals,regular
+3284463053,name,Verizon,regular
+3284463053,office,company,regular
+3284463053,city,Richardson,addr
+3284463053,state,TEXAS,addr
+3284463053,street,International Parkway,addr
+3284463053,postcode,75081,addr
+3284463053,housenumber,400,addr
+3288816091,highway,turning_circle,regular
+3288855864,amenity,parking,regular
+3288855878,highway,turning_circle,regular
+3288855880,highway,turning_circle,regular
+3291460027,highway,turning_circle,regular
+3305921679,name,Panda Express,regular
+3305921679,amenity,fast_food,regular
+3305922380,name,Wendy's,regular
+3305922380,amenity,fast_food,regular
+3305922380,cuisine,burger,regular
+3305924658,name,Office Depot,regular
+3305924658,shop,stationery,regular
+3332071406,highway,turning_circle,regular
+3332071408,highway,turning_circle,regular
+3332071409,highway,turning_circle,regular
+3332071425,highway,turning_circle,regular
+3332071433,highway,turning_circle,regular
+3332071452,highway,turning_circle,regular
+3332071487,highway,turning_circle,regular
+3332285395,highway,turning_circle,regular
+3345842337,name,Batteries Plus Bulbs,regular
+3345842337,shop,electronics,regular
+3345842337,website,http://www.batteriesplus.com/,regular
+3357827980,name,Carpenter Park Recreation Center,regular
+3357827980,sport,multi,regular
+3357827980,leisure,sports_centre,regular
+3357827980,street,Coit Road,addr
+3375246781,highway,turning_circle,regular
+3375246782,highway,turning_circle,regular
+3376087190,note,UT - Dallas,regular
+3376087190,brand,Dero,regular
+3376087190,source,osmsync:dero,regular
+3376087190,amenity,bicycle_repair_station,regular
+3376087190,opening_hours,24/7,regular
+3376087190,bicycle:chain_tool,no,service
+3376087191,note,UT - Dallas,regular
+3376087191,brand,Dero,regular
+3376087191,source,osmsync:dero,regular
+3376087191,amenity,bicycle_repair_station,regular
+3376087191,opening_hours,24/7,regular
+3376087191,bicycle:chain_tool,no,service
+3376087192,note,UT - Dallas,regular
+3376087192,brand,Dero,regular
+3376087192,source,osmsync:dero,regular
+3376087192,amenity,bicycle_repair_station,regular
+3376087192,opening_hours,24/7,regular
+3376087192,bicycle:chain_tool,no,service
+3376087993,note,UT - Dallas,regular
+3376087993,brand,Dero,regular
+3376087993,source,osmsync:dero,regular
+3376087993,amenity,bicycle_repair_station,regular
+3376087993,opening_hours,24/7,regular
+3376087993,bicycle:chain_tool,no,service
+3376087994,note,UT - Dallas,regular
+3376087994,brand,Dero,regular
+3376087994,source,osmsync:dero,regular
+3376087994,amenity,bicycle_repair_station,regular
+3376087994,opening_hours,24/7,regular
+3376087994,bicycle:chain_tool,no,service
+3376087995,note,UT - Dallas,regular
+3376087995,brand,Dero,regular
+3376087995,source,osmsync:dero,regular
+3376087995,amenity,bicycle_repair_station,regular
+3376087995,opening_hours,24/7,regular
+3376087995,bicycle:chain_tool,no,service
+3376087996,note,Carpenter Park,regular
+3376087996,brand,Dero,regular
+3376087996,source,osmsync:dero,regular
+3376087996,amenity,bicycle_repair_station,regular
+3376087996,opening_hours,24/7,regular
+3376087996,bicycle:chain_tool,no,service
+3380393815,highway,turning_circle,regular
+3380530698,highway,turning_circle,regular
+3380535556,highway,turning_circle,regular
+3380535560,highway,turning_circle,regular
+3381628529,highway,turning_circle,regular
+3381628531,highway,turning_circle,regular
+3381628535,highway,turning_circle,regular
+3381628540,highway,turning_circle,regular
+3381628541,highway,turning_circle,regular
+3457792107,railway,level_crossing,regular
+3457792108,railway,level_crossing,regular
+3457792121,railway,level_crossing,regular
+3474124818,name,Xtreme Vapes,regular
+3474124818,amenity,marketplace,regular
+3474124818,city,Plano,addr
+3474124818,street,Independence Parkway,addr
+3474124818,housenumber,3235,addr
+3479491294,power,tower,regular
+3479491495,power,tower,regular
+3479491694,power,tower,regular
+3479491695,power,tower,regular
+3479491696,power,tower,regular
+3479491794,power,tower,regular
+3479491795,power,tower,regular
+3479491796,power,tower,regular
+3479493194,power,tower,regular
+3479493593,power,tower,regular
+3479493594,power,tower,regular
+3479493596,power,tower,regular
+3479493793,power,tower,regular
+3479493794,power,tower,regular
+3479493893,power,tower,regular
+3479493894,power,tower,regular
+3479493895,power,tower,regular
+3479494093,power,tower,regular
+3479494094,power,tower,regular
+3479495593,power,tower,regular
+3479495793,power,tower,regular
+3479495993,power,tower,regular
+3484749121,power,tower,regular
+3484749122,power,tower,regular
+3484749130,power,tower,regular
+3484749331,power,tower,regular
+3484749340,power,pole,regular
+3484749341,power,pole,regular
+3484749342,power,tower,regular
+3484749425,power,tower,regular
+3484749426,power,tower,regular
+3484749427,power,tower,regular
+3484760643,power,tower,regular
+3484760644,power,tower,regular
+3484760645,power,pole,regular
+3484762565,power,tower,regular
+3484762566,power,tower,regular
+3484762567,power,tower,regular
+3484762568,power,tower,regular
+3484762748,power,tower,regular
+3484762749,power,tower,regular
+3484762926,power,tower,regular
+3484762927,power,tower,regular
+3484762928,power,pole,regular
+3484762929,power,tower,regular
+3484762930,power,pole,regular
+3484762931,power,tower,regular
+3484762932,power,pole,regular
+3484762933,power,tower,regular
+3484763228,power,tower,regular
+3484763229,power,tower,regular
+3484763230,power,tower,regular
+3484763231,power,tower,regular
+3484763232,power,tower,regular
+3484763233,power,tower,regular
+3484763326,power,tower,regular
+3484763327,power,tower,regular
+3484763435,power,tower,regular
+3484763444,power,tower,regular
+3484763445,power,pole,regular
+3484769926,power,tower,regular
+3484770136,power,tower,regular
+3484770137,power,tower,regular
+3484770228,power,pole,regular
+3484770229,power,tower,regular
+3484770230,power,tower,regular
+3484770231,power,tower,regular
+3484770232,power,tower,regular
+3484770233,power,tower,regular
+3484836300,power,tower,regular
+3484956394,power,pole,regular
+3484956395,power,pole,regular
+3484978293,power,pole,regular
+3484978294,power,pole,regular
+3484978295,power,pole,regular
+3484978298,power,tower,regular
+3484978299,power,tower,regular
+3484978300,power,tower,regular
+3484978301,power,tower,regular
+3484978302,power,tower,regular
+3484978303,power,tower,regular
+3484978393,power,pole,regular
+3484978395,power,tower,regular
+3484978396,power,tower,regular
+3484978397,power,tower,regular
+3484978398,power,tower,regular
+3484978399,power,tower,regular
+3484978400,power,pole,regular
+3484978493,power,pole,regular
+3484978494,power,pole,regular
+3484978495,power,tower,regular
+3484978496,power,tower,regular
+3484978497,power,tower,regular
+3484978498,power,tower,regular
+3484978499,power,tower,regular
+3484978500,power,pole,regular
+3484978501,power,pole,regular
+3484978593,power,pole,regular
+3484978594,power,tower,regular
+3484978595,power,tower,regular
+3484978596,power,tower,regular
+3484978597,power,pole,regular
+3484978693,power,pole,regular
+3484978694,power,tower,regular
+3484978695,power,tower,regular
+3484978696,power,tower,regular
+3484978697,power,tower,regular
+3484978698,power,tower,regular
+3484978699,power,tower,regular
+3484978700,power,tower,regular
+3484978701,power,tower,regular
+3484978702,power,tower,regular
+3484978703,power,tower,regular
+3484978704,power,pole,regular
+3484978793,power,pole,regular
+3484978794,power,tower,regular
+3484978796,power,tower,regular
+3484978797,power,tower,regular
+3484978799,power,tower,regular
+3484978800,power,tower,regular
+3484978801,power,tower,regular
+3484978802,power,tower,regular
+3484978803,power,tower,regular
+3484978804,power,tower,regular
+3484978805,power,tower,regular
+3484978806,power,tower,regular
+3484978807,power,tower,regular
+3484978993,power,pole,regular
+3484978994,power,tower,regular
+3484979093,power,pole,regular
+3484979094,power,tower,regular
+3484979095,power,tower,regular
+3484979096,power,tower,regular
+3484979097,power,tower,regular
+3484979098,power,tower,regular
+3484979099,power,tower,regular
+3484979100,power,tower,regular
+3484979193,power,pole,regular
+3484979198,power,tower,regular
+3484979199,power,tower,regular
+3484979200,power,tower,regular
+3484979201,power,tower,regular
+3484979202,power,pole,regular
+3484979295,power,tower,regular
+3484979394,power,tower,regular
+3484979395,power,tower,regular
+3484979396,power,tower,regular
+3484979397,power,tower,regular
+3484979494,power,tower,regular
+3484979495,power,tower,regular
+3484979496,power,tower,regular
+3484979497,power,tower,regular
+3484979498,power,tower,regular
+3484979499,power,tower,regular
+3484979500,power,tower,regular
+3484979501,power,tower,regular
+3484979502,power,tower,regular
+3484979503,power,tower,regular
+3484979504,power,tower,regular
+3484979505,power,pole,regular
+3484979593,power,tower,regular
+3484979594,power,tower,regular
+3484979595,power,tower,regular
+3484979596,power,tower,regular
+3484979597,power,tower,regular
+3484979598,power,tower,regular
+3484979599,power,tower,regular
+3484979600,power,tower,regular
+3484979601,power,tower,regular
+3484979602,power,tower,regular
+3484980093,power,tower,regular
+3484980094,power,tower,regular
+3484980095,power,tower,regular
+3484980096,power,tower,regular
+3484980097,power,tower,regular
+3484980098,power,tower,regular
+3484980099,power,tower,regular
+3484980100,power,tower,regular
+3484980101,power,tower,regular
+3484980102,power,tower,regular
+3484980103,power,tower,regular
+3484980104,power,tower,regular
+3484980493,power,tower,regular
+3484980494,power,tower,regular
+3484980495,power,tower,regular
+3484980496,power,tower,regular
+3484980497,power,tower,regular
+3521349230,power,pole,regular
+3521349233,power,pole,regular
+3521349529,power,pole,regular
+3521349539,power,pole,regular
+3521349546,power,pole,regular
+3521359405,power,pole,regular
+3521359515,power,pole,regular
+3521359516,power,pole,regular
+3521359528,power,pole,regular
+3521359529,power,pole,regular
+3521359597,power,pole,regular
+3521359727,power,pole,regular
+3521359729,power,pole,regular
+3521359730,power,pole,regular
+3521359740,power,pole,regular
+3521359741,power,pole,regular
+3521359842,power,pole,regular
+3521359851,power,pole,regular
+3521359910,power,pole,regular
+3521359911,power,pole,regular
+3521360028,power,pole,regular
+3521360029,power,pole,regular
+3521360311,power,pole,regular
+3521360312,power,pole,regular
+3521360400,power,pole,regular
+3521360519,power,pole,regular
+3521360525,power,pole,regular
+3521360527,power,pole,regular
+3525380626,highway,crossing,regular
+3525380629,highway,crossing,regular
+3530179481,power,pole,regular
+3530179482,power,pole,regular
+3530179483,power,pole,regular
+3530179484,power,pole,regular
+3530179485,power,pole,regular
+3530179486,power,pole,regular
+3530179559,power,pole,regular
+3530179560,power,pole,regular
+3530179646,power,pole,regular
+3530179647,power,pole,regular
+3530179648,power,pole,regular
+3530179649,power,pole,regular
+3530179745,power,pole,regular
+3530179746,power,pole,regular
+3530179747,power,pole,regular
+3530180041,power,pole,regular
+3530180042,power,pole,regular
+3530180043,power,pole,regular
+3530180188,power,pole,regular
+3530180189,power,pole,regular
+3530180190,power,pole,regular
+3530180191,power,pole,regular
+3530180192,power,pole,regular
+3530180230,power,pole,regular
+3530180459,power,pole,regular
+3530180460,power,pole,regular
+3530180461,power,pole,regular
+3530180462,power,pole,regular
+3530180463,power,pole,regular
+3530180464,power,pole,regular
+3530180465,power,pole,regular
+3530180466,power,pole,regular
+3530180467,power,pole,regular
+3530180468,power,pole,regular
+3530180469,power,pole,regular
+3530182133,power,pole,regular
+3538436945,name,Hobby Lobby,regular
+3538436945,shop,craft,regular
+3538436945,phone,469-467-6018,regular
+3538436945,city,Plano,addr
+3538436945,state,Texas,addr
+3538436945,street,West 15th Street,addr
+3538436945,postcode,75075,addr
+3538436945,housenumber,900,addr
+3538436950,name,Master Tech Auto Repair,regular
+3538436950,shop,car_repair,regular
+3538582659,city,Plano,addr
+3538582659,housenumber,#121;1905,addr
+3538582659,postcode,75075,addr
+3538582659,state,TEXAS,addr
+3538582659,street,West 15th Street,addr
+3538582659,name,Kegs & Barrels,regular
+3538582659,phone,972-578-3132,regular
+3538582659,shop,alcohol,regular
+3538582659,website,http://www.kegsandbarrels.com/,regular
+3538637746,man_made,water_tower,regular
+3538637747,name,Arbor Hills Memory Care Community,regular
+3538637747,note,"Limited to patients suffering from Alzheimers, dementia, or other memory loss",regular
+3538637747,amenity,social_facility,regular
+3538637747,website,http://www.koelschseniorcommunities.com/senior_care/Plano_TX/zip_75075/koelsch_senior_communities/10012,regular
+3538637747,operator,Koelsch Senior Communities,regular
+3538637747,city,Plano,addr
+3538637747,state,TEXAS,addr
+3538637747,wheelchair,yes,regular
+3538637747,street,West Plano Parkway,addr
+3538637747,postcode,75075,addr
+3538637747,social_facility,group_home,regular
+3538637747,housenumber,2625,addr
+3538637747,for,senior,social_facility
+3538637749,highway,turning_circle,regular
+3554571603,amenity,fuel,regular
+3562015367,name,Parkside Town Apartments,regular
+3562015367,website,http://www.parksidetowns.com/,regular
+3562015367,city,Richardson,addr
+3562015367,state,Texas,addr
+3562015367,street,Gardenia Way,addr
+3562015367,postcode,75080,addr
+3562015367,housenumber,2232,addr
+3605959081,name,Barber 1,regular
+3605959081,shop,hairdresser,regular
+3605959081,phone,972-800-3097,regular
+3605959081,website,www.callmybarber.com,regular
+3605959081,street,Estate Lane,addr
+3605959081,opening_hours,Mo-Su 08:00-21:00,regular
+3605959081,housenumber,1200,addr
+3627507146,highway,turning_circle,regular
+3653330117,highway,turning_circle,regular
+3692838566,name,Chipotle Mexican Grill,regular
+3692838566,source,osm_note,regular
+3692838566,amenity,restaurant,regular
+3692838566,cuisine,mexican,regular
+3692844393,atm,yes,regular
+3692844393,name,Viewpoint Bank,regular
+3692844393,source,Osm_note,regular
+3692844393,amenity,bank,regular
+3692949429,name,Structure Solutions,regular
+3692949429,office,company,regular
+3692949429,building,commercial,regular
+3692968109,city,Richardson,addr
+3692968109,state,TEXAS,addr
+3692968109,street,Moroney Drive,addr
+3692968109,country,US,addr
+3692968109,postcode,75082,addr
+3692968109,housenumber,3361,addr
+3704817600,name,Hunters Glen Baptist Church,regular
+3704817600,amenity,place_of_worship,regular
+3704817600,religion,christian,regular
+3704817600,city,Plano,addr
+3704817600,state,TEXAS,addr
+3704817600,street,Custer Road,addr
+3704817600,denomination,baptist,regular
+3704817600,postcode,75023,addr
+3704817600,housenumber,4001,addr
+3710771206,name,Marinara Pizza,regular
+3710771206,amenity,restaurant,regular
+3710771206,cuisine,pizza,regular
+3710771206,website,http://www.marinarapizza.net/,regular
+3710771206,unit,500,addr
+3710771206,street,N Central Expy,addr
+3710771206,postcode,75075,addr
+3710771206,housenumber,1915,addr
+3710783552,name,Coffee del Rey,regular
+3710783552,shop,coffee,regular
+3710783552,website,http://www.coffeedelrey.com/,regular
+3710783552,unit,340,addr
+3710783552,street,N Central Expy,addr
+3710783552,postcode,75075,addr
+3710783552,housenumber,1915,addr
+3710785094,name,TheLab.ms Plano Education Center,regular
+3710785094,leisure,hackerspace,regular
+3710785094,website,https://thelab.ms/,regular
+3710785094,unit,370,addr
+3710785094,street,N Central Expy,addr
+3710785094,postcode,75075,addr
+3710785094,housenumber,1915,addr
+3765579582,entrance,yes,regular
+3784420812,highway,turning_circle,regular
+3788708148,highway,turning_circle,regular
+3794286192,highway,traffic_signals,regular
+3794286192,traffic_signals,signal,regular
+3794286203,highway,traffic_signals,regular
+3794286203,traffic_signals,signal,regular
+3798898961,name,Comfort Suites Plano,regular
+3798898961,phone,469-429-0700,regular
+3798898961,smoking,no,regular
+3798898961,tourism,hotel,regular
+3798898961,street,East President George Bush Highway,addr
+3798898961,internet_access,yes,regular
+3798898961,housenumber,2301,addr
+3798898961,user_defined_other,accomodation,regular
+3798898961,fee,no,internet_access
+3815721990,name,Lone Star Cars,regular
+3815721990,city,Plano,addr
+3815721990,state,TEXAS,addr
+3815721990,street,Commerce Drive,addr
+3815721990,postcode,75093,addr
+3815721990,housenumber,1212,addr
+3833252611,name,Richardson Public Library,regular
+3833252611,amenity,library,regular
+3925629841,name,AT&T,regular
+3925629841,shop,mobile_phone,regular
+3925629842,name,BBVA Compass,regular
+3925629842,amenity,bank,regular
+3925629843,name,Buffalo Wild Wings,regular
+3925629843,amenity,fast_food,regular
+3925629844,name,Capital One Bank,regular
+3925629844,phone,1-972-364-6000,regular
+3925629844,amenity,bank,regular
+3925629845,name,Chase,regular
+3925629845,amenity,bank,regular
+3925629846,name,Exxon,regular
+3925629846,amenity,fuel,regular
+3925629847,name,Family Medical Center at North Garland,regular
+3925629847,phone,1-469-800-2100,regular
+3925629847,amenity,doctors,regular
+3925629848,name,Firewheel Modern Dentistry,regular
+3925629848,amenity,dentist,regular
+3925629849,name,LA Hair Studio,regular
+3925629849,shop,hairdresser,regular
+3925629850,name,Matt's Rancho Martinez,regular
+3925629850,phone,1-972-675-8600,regular
+3925629850,amenity,restaurant,regular
+3925629850,website,http://www.mattstexmex.com/,regular
+3925629851,name,Mattress Firm Garland Crossing,regular
+3925629851,shop,furniture,regular
+3925629852,name,McDonald's,regular
+3925629852,amenity,fast_food,regular
+3925629853,name,Michaels,regular
+3925629853,shop,crafts,regular
+3925629854,name,Music & Arts,regular
+3925629854,shop,musical_instrument,regular
+3925629855,name,Once Upon A Child,regular
+3925629855,shop,clothes,regular
+3925629856,name,Red Robin Gourmet Burgers,regular
+3925629856,amenity,fast_food,regular
+3925631657,name,Smoothie King,regular
+3925631657,amenity,restaurant,regular
+3925631658,name,Verizon,regular
+3925631658,shop,mobile_phone,regular
+3925631659,name,Wells Fargo,regular
+3925631659,amenity,bank,regular
+3925632355,name,starbucks,regular
+3925632355,shop,coffee,regular
+3925632356,name,7-Eleven,regular
+3925632356,shop,kiosk,regular
+3952714475,name,Montanna Rae Hair,regular
+3952714475,shop,hairdresser,regular
+3952714475,city,Richardson,addr
+3952714475,state,TEXAS,addr
+3952714475,street,Alamo Road,addr
+3952714475,postcode,75080,addr
+3952714475,housenumber,2100,addr
+3952781721,name,Canyon Creek Art & Frame,regular
+3952781721,shop,art,regular
+3952781721,phone,972-690-6216,regular
+3952781721,website,www.canyoncreekart.com,regular
+3952781721,operator,Jerry Cornelius,regular
+3952781721,city,Richardson,addr
+3952781721,state,TEXAS,addr
+3952781721,street,North Central Expressway,addr
+3952781721,postcode,75080,addr
+3952781721,opening_hours,Tu-Fr 10:00-18:00; Sa 10:00-16:00,regular
+3952781721,housenumber,2051,addr
+3952828893,name,AMF Richardson Lanes,regular
+3952828893,phone,972-231-2695,regular
+3952828893,leisure,bowling_alley,regular
+3952828893,website,http://www.amf.com/richardsonlanes,regular
+3952828893,city,Richardson,addr
+3952828893,state,TEXAS,addr
+3952828893,street,North Central Expressway,addr
+3952828893,postcode,75080,addr
+3952828893,opening_hours,Mo 12:00-00:00; Tu-Fr 17:00-00:00; Sa-Su 12:00-01:00; Su 12:00-00:00,regular
+3952828893,housenumber,2101,addr
+3952929884,name,Ignite Partnership,regular
+3952929884,business,Advertising Agency,regular
+3952929885,name,Allstate Insurance,regular
+3952929885,business,Insurance Agency,regular
+3952929885,operator,Joe L. Reyes,regular
+3952950231,name,Torchy's Tacos,regular
+3952950231,phone,972-234-4391,regular
+3952950231,amenity,restaurant,regular
+3952950231,cuisine,taco_restaurant,regular
+3952950231,website,http://torchystacos.com/location/richardson/,regular
+3952950231,delivery,no,regular
+3952950231,takeaway,yes,regular
+3952950231,city,Richardson,addr
+3952950231,state,TEXAS,addr
+3952950231,street,West Campbell Road,addr
+3952950231,postcode,75080,addr
+3952950231,opening_hours,Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00,regular
+3952950231,housenumber,300,addr
+3952950232,name,Tokyo Joe's,regular
+3952950232,phone,214-484-5211,regular
+3952950232,amenity,restaurant,regular
+3952950232,cuisine,japanese,regular
+3952950232,website,http://tokyojoes.com/,regular
+3952950232,city,Richardson,addr
+3952950232,state,TEXAS,addr
+3952950232,street,West Campbell Road,addr
+3952950232,postcode,75080,addr
+3952950232,opening_hours,Su-Sa 11:00-22:00,regular
+3952950232,housenumber,300,addr
+3952955567,name,SPIN! Neapolitan Pizza,regular
+3952955567,phone,972-235-7746,regular
+3952955567,amenity,restaurant,regular
+3952955567,cuisine,pizza,regular
+3952955567,website,http://www.spinpizza.com/,regular
+3952955567,city,Richardson,addr
+3952955567,state,TEXAS,addr
+3952955567,street,West Campbell Road,addr
+3952955567,postcode,75080,addr
+3952955567,opening_hours,Su-Sa 11:00-21:00,regular
+3952955567,housenumber,348,addr
+3952955568,name,My Foot Spa,regular
+3952955568,shop,beauty,regular
+3952955568,phone,972-235-3338,regular
+3952955568,website,myfootspatexas.com,regular
+3952955568,city,Richardson,addr
+3952955568,state,TEXAS,addr
+3952955568,street,West Campbell Road,addr
+3952955568,postcode,75080,addr
+3952955568,housenumber,212,addr
+3952955569,name,Axis Medical Equipment & Supplies,regular
+3952955569,shop,medical_supply,regular
+3952955569,phone,972-889-2947,regular
+3952955569,website,http://www.axismedical.com/,regular
+3952955569,city,Richardson,addr
+3952955569,state,TEXAS,addr
+3952955569,street,West Campbell Road,addr
+3952955569,postcode,75080,addr
+3952955569,opening_hours,Mo-Fr 09:00-18:00,regular
+3952955569,housenumber,336,addr
+3952955570,name,Snappy Salads,regular
+3952955570,phone,972-792-7627,regular
+3952955570,amenity,restaurant,regular
+3952955570,cuisine,salads,regular
+3952955570,website,https://www.snappysalads.com/,regular
+3952955570,delivery,yes,regular
+3952955570,takeaway,yes,regular
+3952955570,city,Richardson,addr
+3952955570,state,TEXAS,addr
+3952955570,street,West Campbell Road,addr
+3952955570,postcode,75080,addr
+3952955570,opening_hours,Mo-Sa 11:00-21:00; Su 11:00-15:00,regular
+3952955570,housenumber,320,addr
+3952955571,name,Sun Lee Taekwondo,regular
+3952955571,phone,469-200-0972,regular
+3952955571,amenity,dojo,regular
+3952955571,website,http://www.richardsonmartialartsschool.com/,regular
+3952955571,city,Richardson,addr
+3952955571,state,TEXAS,addr
+3952955571,street,West Campbell Road,addr
+3952955571,postcode,75080,addr
+3952955571,opening_hours,Mo-Fr 11:00-13:00; Mo-Fr 14:00-20:00; Sa 09:00-13:00,regular
+3952955571,housenumber,322,addr
+3952969800,city,Richardson,addr
+3952969800,housenumber,206,addr
+3952969800,postcode,75080,addr
+3952969800,state,TEXAS,addr
+3952969800,street,West Campbell Road,addr
+3952969800,name,Radio Shack,regular
+3952969800,opening_hours,Mo-Sa 10:00-20:00; Su 11:00-18:00,regular
+3952969800,phone,972-669-1210,regular
+3952969800,shop,electronics,regular
+3952969800,website,http://stores.radioshack.com/tx/richardson/206-west-campbell-road.html,regular
+3952969801,name,Royal Chopstix,regular
+3952969801,phone,972-907-1188,regular
+3952969801,amenity,restaurant,regular
+3952969801,website,royalchopstix.net,regular
+3952969801,city,Richardson,addr
+3952969801,state,TEXAS,addr
+3952969801,street,West Campbell Road,addr
+3952969801,postcode,75080,addr
+3952969801,opening_hours,Su-Sa 11:00-22:00,regular
+3952969801,housenumber,202,addr
+3952969802,name,Billiard Factory,regular
+3952969802,phone,972-234-4697,regular
+3952969802,website,billiardfactory.com,regular
+3952969802,city,Richardson,addr
+3952969802,state,TEXAS,addr
+3952969802,street,North Collins Boulevard,addr
+3952969802,postcode,75080,addr
+3952969802,housenumber,2080,addr
+3952969803,name,Casanova Hookah Lounge,regular
+3952969803,phone,903-413-9405,regular
+3952969803,amenity,bar,regular
+3952969803,city,Richardson,addr
+3952969803,state,TEXAS,addr
+3952969803,street,North Collins Boulevard,addr
+3952969803,postcode,75080,addr
+3952969803,opening_hours,Mo-Th 16:00-03:00; Fr-Su 16:00-06:00,regular
+3952969803,housenumber,2050,addr
+3952969804,name,Aka Cigars,regular
+3952969804,shop,tobacco,regular
+3952969804,phone,972-234-5300,regular
+3952969804,website,akacigars.com,regular
+3952969804,city,Richardson,addr
+3952969804,state,TEXAS,addr
+3952969804,street,North Collins Boulevard,addr
+3952969804,postcode,75080,addr
+3952969804,housenumber,2050,addr
+3952969805,name,Custom Jewelers of Richardson,regular
+3952969805,shop,jewelry,regular
+3952969805,phone,972-761-0323,regular
+3952969805,city,Richardson,addr
+3952969805,state,TEXAS,addr
+3952969805,street,North Collins Boulevard,addr
+3952969805,postcode,75080,addr
+3952969805,housenumber,2050,addr
+3952969806,name,Wallis & Barcinsk,regular
+3952969806,phone,972-238-1556,regular
+3952969806,website,wallisandbarcinski.com,regular
+3952969807,name,Kappa PSI Pharmaceutical,regular
+3952969807,phone,972-479-1879,regular
+3952969807,website,kappapsi.org,regular
+3956025888,name,Avnet,regular
+3956025888,office,administrative,regular
+3956028168,name,Spring Hill Suites,regular
+3956028168,tourism,hotel,regular
+3960878650,fax,+1 972 2348501,regular
+3960878650,name,Heights Community Pharmacy,regular
+3960878650,phone,972-234-8500,regular
+3960878650,amenity,pharmacy,regular
+3960878650,website,http://Heightsrx.com,regular
+3960878650,city,Richardson,addr
+3960878650,unit,9,addr
+3960878650,state,TEXAS,addr
+3960878650,street,North Floyd Road,addr
+3960878650,country,US,addr
+3960878650,postcode,75080,addr
+3960878650,email,aebrumfi1@theaepharmacy.com,contact
+3960878650,opening_hours,Mo-Fr 08:30-18:00; Sa 08:30-14:00; Su off,regular
+3960878650,housenumber,1112,addr
+4053550021,railway,level_crossing,regular
+4053550022,railway,level_crossing,regular
+4072114009,name,Coffee Corner,regular
+4072114009,amenity,cafe,regular
+4072114009,cuisine,coffee_shop,regular
+4072114009,smoking,outside,regular
+4072114009,opening_hours,"Mo-Th 08:00-21:00, Fr 08:00-16:00, Sa-Su closed",regular
+4072114009,internet_access,yes,regular
+4072133813,name,Mi Cocina,regular
+4072133813,amenity,restaurant,regular
+4072133813,cuisine,mexican,regular
+4072133813,city,Richardson,addr
+4072133813,state,TEXAS,addr
+4072133813,street,West Campbell Road,addr
+4072133813,postcode,75080,addr
+4072133813,opening_hours,11:00-21:00,regular
+4072133813,housenumber,1370,addr
+4072138689,name,Banfield Pet Hospital,regular
+4072138689,amenity,hospital,regular
+4072138689,city,Richardson,addr
+4072138689,state,Tx,addr
+4072138689,street,North Coit Road,addr
+4072138689,housenumber,1682,addr
+4072144859,name,McDonald's,regular
+4072144859,amenity,fast_food,regular
+4072144859,cuisine,burger,regular
+4072155555,name,Steak and Shake,regular
+4072155555,amenity,restaurant,regular
+4072155555,cuisine,burger,regular
+4072155555,smoking,no,regular
+4072155555,delivery,no,regular
+4072155555,takeaway,yes,regular
+4072155555,opening_hours,00:00-24:00,regular
+4072156668,name,Taco Cabanna,regular
+4072156668,amenity,restaurant,regular
+4072156668,cuisine,mexican,regular
+4072159625,name,Lloyd V. Berkner Hall,regular
+4072159625,amenity,college,regular
+4072159625,operator,University of Texas at Dallas,regular
+4072159938,name,FX Video Games,regular
+4072159938,shop,video_games,regular
+4072169664,name,Einstein Bros Bagels,regular
+4072169664,amenity,cafe,regular
+4072169665,name,IHOP Express,regular
+4072169665,amenity,restaurant,regular
+4072169666,name,Outtakes,regular
+4072169666,amenity,cafe,regular
+4072169667,name,Papa John's,regular
+4072169667,amenity,fast_food,regular
+4072169667,cuisine,pizza,regular
+4072169668,name,Bookstore Coffee Shop,regular
+4072169668,amenity,cafe,regular
+4072169668,cuisine,coffee_shop,regular
+4072170588,name,Bookstore Coffee Shop,regular
+4072170588,amenity,cafe,regular
+4072170588,cuisine,coffee_shop,regular
+4072178272,name,Starbucks,regular
+4072178272,amenity,cafe,regular
+4072178272,internet_access,yes,regular
+4072178273,name,Jason Deli,regular
+4072178273,amenity,fast_food,regular
+4072178273,cuisine,american,regular
+4072178273,takeaway,yes,regular
+4072178274,name,Gym,regular
+4072178274,leisure,sports_centre,regular
+4072178274,opening_hours,Mo-Th 07:00-25:00; Fr 07:00-22:00; Sa 08:00-22:00; Su 12:00-25:00,regular
+4072178276,name,UTD Bookstore,regular
+4072178276,shop,books,regular
+4072178276,city,Richardson,addr
+4072178276,state,TEXAS,addr
+4072178276,street,West Campbell Road,addr
+4072178276,postcode,75081,addr
+4072178276,housenumber,800,addr
+4072178277,name,Print/Copy center,regular
+4072178277,shop,computer,regular
+4072178288,shop,mall,regular
+4072182589,name,Jason's Deli,regular
+4072182589,amenity,cafe,regular
+4072182592,name,Subway,regular
+4072182592,amenity,fast_food,regular
+4072182592,cuisine,sandwich,regular
+4072186483,amenity,college,regular
+4072186484,natural,yes,regular
+4072188694,name,Outtakes,regular
+4072188694,amenity,cafe,regular
+4072189894,natural,yes,regular
+4072203765,name,The Pub,regular
+4072203765,amenity,restaurant,regular
+4072203766,name,Panda Express,regular
+4072203766,amenity,fast_food,regular
+4072203766,cuisine,chinese,regular
+4072203767,name,Chick-fil-A,regular
+4072203767,amenity,fast_food,regular
+4072203767,cuisine,burger,regular
+4072203768,name,Moe's,regular
+4072203768,amenity,fast_food,regular
+4072203769,name,Bal's,regular
+4072203769,amenity,restaurant,regular
+4072203769,cuisine,indian,regular
+4072203770,amenity,fast_food,regular
+4072203770,cuisine,potato,regular
+4072203770,name,Create,regular
+4072203771,name,Ben and Jerry's,regular
+4072203771,amenity,fast_food,regular
+4072203771,cuisine,ice_cream,regular
+4072203773,name,Reflection Room,regular
+4072203773,amenity,place_of_worship,regular
+4072205986,name,Route 883,regular
+4072205986,covered,yes,regular
+4072205986,highway,bus_stop,regular
+4072205986,network,DART,regular
+4072205986,shelter,yes,regular
+4072263138,unisex,yes,regular
+4072263138,amenity,toilets,regular
+4072266353,amenity,vending_machine,regular
+4072266353,vending,snacks_and_test_materials,regular
+4072271143,name,Love Jack,regular
+4072271143,tourism,artwork,regular
+4072271843,name,Chicken Express,regular
+4072271843,amenity,restaurant,regular
+4072271843,cuisine,chicken,regular
+4072299990,name,Bathroom,regular
+4072299990,level,1,regular
+4072299990,description,Secluded and largely unused.,regular
+4113037647,name,Two Little Girls Vietnamese Restaurant,regular
+4113037647,phone,1-972-889-8598,regular
+4113037647,amenity,restaurant,regular
+4113037647,cuisine,Vietnamese,regular
+4113037647,website,http://www.twolittlegirls.net/,regular
+4113037647,takeaway,yes,regular
+4113037647,city,Richardson,addr
+4113037647,state,TEXAS,addr
+4113037647,street,East Arapaho Road,addr
+4113037647,postcode,75081,addr
+4113037647,housenumber,800,addr
+4134015541,highway,stop,regular
+4150221155,tourism,viewpoint,regular
+4150221289,access,no,regular
+4150221289,barrier,gate,regular
+4150221289,description,path dead-ends to south under bridge,regular
+4151084547,amenity,bench,regular
+4151084548,ref,21174,regular
+4151084548,bench,yes,regular
+4151084548,highway,bus_stop,regular
+4151084548,operator,DART,regular
+4151084549,ref,29374,regular
+4151084549,bench,yes,regular
+4151084549,highway,bus_stop,regular
+4151084549,operator,DART,regular
+4151084550,amenity,bench,regular
+4194072225,highway,stop,regular
+4205954089,highway,stop,regular
+4205954090,highway,stop,regular
+4211575774,railway,crossing,regular
+4211575775,railway,crossing,regular
+4211785969,railway,halt,regular
+4211785969,light_rail,yes,regular
+4211785969,public_transport,stop_position,regular
+4211785974,railway,halt,regular
+4211785974,light_rail,yes,regular
+4211785974,public_transport,stop_position,regular
+4211785979,railway,halt,regular
+4211785979,light_rail,yes,regular
+4211785979,public_transport,stop_position,regular
+4211785980,railway,halt,regular
+4211785980,light_rail,yes,regular
+4211785980,public_transport,stop_position,regular
+4211786090,railway,halt,regular
+4211786090,light_rail,yes,regular
+4211786090,public_transport,stop_position,regular
+4211786091,railway,halt,regular
+4211786091,light_rail,yes,regular
+4211786091,public_transport,stop_position,regular
+4214650846,bus,yes,regular
+4214650846,highway,bus_stop,regular
+4214650846,public_transport,stop_position,regular
+4214682568,bus,yes,regular
+4214682568,highway,bus_stop,regular
+4214682568,public_transport,stop_position,regular
+4215901914,bus,yes,regular
+4215901914,highway,bus_stop,regular
+4215901914,public_transport,stop_position,regular
+4217516652,note,Whole Foods Cityline,regular
+4217516652,brand,Dero,regular
+4217516652,amenity,bicycle_repair_station,regular
+4217516652,opening_hours,24/7,regular
+4217516652,bicycle:pump,yes,service
+4222638411,highway,stop,regular
+4222638412,highway,stop,regular
+4222641362,highway,stop,regular
+4229147968,name,MO'S TO GO,regular
+4229147968,phone,469-899-6600,regular
+4229147968,amenity,restaurant,regular
+4229147968,cuisine,mexican;italian;casual dining,regular
+4229147968,website,www.mosdfw.com,regular
+4229147968,delivery,yes,regular
+4229147968,takeaway,only,regular
+4229147968,city,Richardson,addr
+4229147968,unit,122,addr
+4229147968,state,TEXAS,addr
+4229147968,street,East Renner Road,addr
+4229147968,postcode,75082,addr
+4229147968,opening_hours,Mo-Fr 11:00-19:00,regular
+4229147968,housenumber,4251,addr
+4229463328,name,QuikTrip,regular
+4229463328,amenity,fuel,regular
+4229468464,name,QuikTrip,regular
+4229468464,amenity,fuel,regular
+4229497868,name,QuikTrip,regular
+4229497868,amenity,fuel,regular
+4284994400,highway,stop,regular
+4287269604,name,Lou Insurance & Financial Services,regular
+4287269604,phone,972-669-9888,regular
+4287269604,office,insurance,regular
+4287269604,website,http://louinsuranceandfinancial.com,regular
+4287269604,city,Plano,addr
+4287269604,unit,B518,addr
+4287269604,state,TEXAS,addr
+4287269604,street,West Spring Creek Parkway,addr
+4287269604,postcode,75024,addr
+4287269604,housenumber,4120,addr
+4304777463,highway,stop,regular
+4313360416,name,Muslim Legal Fund of America,regular
+4313360416,city,Richardson,addr
+4313360416,unit,209,addr
+4313360416,state,TEXAS,addr
+4313360416,street,East Arapaho Road,addr
+4313360416,postcode,75081,addr
+4313360416,housenumber,833,addr
+4370207229,name,Bank of America,regular
+4370207229,amenity,bank,regular
+4370207229,city,Plano,addr
+4370207229,state,TEXAS,addr
+4370207229,street,Independence Parkway,addr
+4370207229,postcode,75025,addr
+4370207229,drive_through,yes,regular
+4370207229,opening_hours,Mo-Th 09:00-16:00; Fr 09:00-18:00; Sa 09:00-14:00,regular
+4370207229,housenumber,7001,addr
+4370218779,name,Starbucks,regular
+4370218779,amenity,cafe,regular
+4370218779,cuisine,coffee_shop,regular
+4370218779,smoking,outside,regular
+4370218779,internet_access,wlan,regular
+4370218780,name,Hirsch's Meats,regular
+4370218780,shop,butcher,regular
+4434647696,name,McDonald's,regular
+4434647696,amenity,fast_food,regular
+4434647697,name,Taco Bell,regular
+4434647697,amenity,fast_food,regular
+4434647698,name,Wendy's,regular
+4434647698,amenity,fast_food,regular
+4434685128,name,Taco Bueno,regular
+4434685128,amenity,fast_food,regular
+4457176269,name,Springpark,regular
+4457176269,place,neighbourhood,regular
+4459829470,highway,turning_circle,regular
+4459830519,highway,turning_circle,regular
+4459830640,highway,turning_circle,regular
+4459831040,highway,turning_circle,regular
+4459831574,highway,turning_circle,regular
+4459832361,highway,turning_circle,regular
+4459832722,highway,turning_circle,regular
+4459834435,highway,turning_circle,regular
+4459936405,highway,turning_circle,regular
+4459977211,highway,turning_circle,regular
+4472174336,amenity,fountain,regular
+4472174342,amenity,fountain,regular
+4483791758,highway,crossing,regular
+4483791921,waterway,weir,regular
+4492991973,shop,convenience,regular
+4493044051,name,Tom Thumb 3637,regular
+4493044051,shop,supermarket,regular
+4493063236,name,Ross Dress for Less,regular
+4493063236,shop,clothes,regular
+4493063237,name,Super Target,regular
+4493063237,shop,yes,regular
+4493063238,name,Staples,regular
+4493063238,shop,stationery,regular
+4509745971,highway,traffic_signals,regular
+4509745972,highway,traffic_signals,regular
+4530461359,highway,crossing,regular
+4530461359,crossing,traffic_signals,regular
+4530461360,highway,crossing,regular
+4530461360,crossing,traffic_signals,regular
+4530461361,highway,crossing,regular
+4530461361,crossing,traffic_signals,regular
+4530461362,highway,crossing,regular
+4530461362,crossing,traffic_signals,regular
+4530461363,highway,crossing,regular
+4530461363,crossing,traffic_signals,regular
+4530461364,highway,crossing,regular
+4530461364,crossing,traffic_signals,regular
+4530461365,highway,crossing,regular
+4530461365,crossing,traffic_signals,regular
+4530461366,highway,crossing,regular
+4530461366,crossing,traffic_signals,regular
+4531180564,name,Studio 3 Dance,regular
+4531180564,phone,972-964-3838,regular
+4531180564,website,http://studio3dance.com,regular
+4531180564,city,Plano,addr
+4531180564,state,TEXAS,addr
+4531180564,street,Coit Road #440,addr
+4531180564,postcode,75075,addr
+4531180564,housenumber,2220,addr
+4534897889,name,Outback Steakhouse,regular
+4534897889,amenity,restaurant,regular
+4534897890,name,On the Border,regular
+4534897890,amenity,restaurant,regular
+4534897891,name,Olive Garden,regular
+4534897891,amenity,restaurant,regular
+4555575818,railway,crossing,regular
+4555575819,railway,crossing,regular
+4555575820,railway,crossing,regular
+4555575821,railway,crossing,regular
+4555575822,railway,crossing,regular
+4555575823,railway,crossing,regular
+4573195768,name,Collin Creek Dental: Larry D. Whiting DDS FAGD,regular
+4573195768,phone,972-881-7550,regular
+4573195768,website,http://larrydwhitingdds.com,regular
+4573195768,city,Plano,addr
+4573195768,state,TEXAS,addr
+4573195768,street,N Central Expy #644,addr
+4573195768,postcode,75074,addr
+4573195768,housenumber,660,addr
+4580843070,fax,972-867-7691,regular
+4580843070,name,El Norte Mexican Grill,regular
+4580843070,phone,972-596-6783,regular
+4580843070,website,http://elnortegrill.com,regular
+4580843070,city,Plano,addr
+4580843070,state,TEXAS,addr
+4580843070,street,West Parker Road,addr
+4580843070,postcode,75023,addr
+4580843070,housenumber,2205,addr
+4598712123,city,Plano,addr
+4598712123,housenumber,900,addr
+4598712123,state,TEXAS,addr
+4598712123,street,East Park Boulevard,addr
+4598712123,name,Collin County,regular
+4598712123,office,government,regular
+4598712124,amenity,fuel,regular
+4598712125,amenity,fuel,regular
+4598712126,amenity,fast_food,regular
+4598712126,cuisine,mexican,regular
+4598712126,name,Taco Bueno,regular
+4598712127,shop,storage_rental,regular
+4598712137,leisure,bowling_alley,regular
+4604698955,highway,turning_circle,regular
+4611823391,city,Richardson,addr
+4611823391,housenumber,1604,addr
+4611823391,postcode,75080,addr
+4611823391,state,TEXAS,addr
+4611823391,street,Nantucket Drive,addr
+4611823391,name,Starfleet Couriers,regular
+4611823391,office,company,regular
+4611823391,phone,1-972-960-0044,regular
+4611823391,website,http://starfleetnow.com,regular
+4617758457,city,Richardson,addr
+4617758457,housenumber,700,addr
+4617758457,postcode,75081,addr
+4617758457,state,TEXAS,addr
+4617758457,street,East Campbell Road,addr
+4617758457,unit,160,addr
+4617758457,name,Luxx Nail Bar,regular
+4617758457,phone,1-972-234-5899,regular
+4617758457,shop,beauty,regular
+4617758457,website,http://sanhamata.wixsite.com/luxxnailbar,regular
+4630866845,highway,turning_circle,regular
+4646492581,entrance,main,regular
+4646492712,entrance,main,regular
+4684626588,city,Richardson,addr
+4684626588,housenumber,3613,addr
+4684626588,postcode,75082,addr
+4684626588,state,TEXAS,addr
+4684626588,street,Shire Boulevard,addr
+4684626588,amenity,restaurant,regular
+4684626588,name,Casa Cha Cha,regular
+4684626588,phone,1972-238-3546,regular
+4684626588,suite,180,regular
+4684626588,website,http://www.casachachatx.com,regular
+4714029114,highway,turning_circle,regular
+4715415045,city,Plano,addr
+4715415045,housenumber,4912,addr
+4715415045,postcode,75074,addr
+4715415045,street,14th Street,addr
+4715415045,name,Tri-Cities Police Academy,regular
+4715415045,source,Collin County TX plat map,regular
+4716366357,highway,turning_circle,regular
+4716368187,highway,turning_circle,regular
+4727907913,amenity,fountain,regular
+4727907913,name,Bob Woodruff Park Fountain,regular
+4728384187,leisure,sports_centre,regular
+4728384187,name,Texas Pool On The Creek,regular
+4728384187,operator,http://www.texaspool.org/,regular
+4728384187,sport,swimming,regular
+4728422843,leisure,park,regular
+4728422843,name,Overland Trail Park,regular
+4732920973,amenity,fountain,regular
+4732920995,amenity,fountain,regular
+4763031089,name,Angels,regular
+4763031089,shop,alcohol,regular
+4763031090,amenity,restaurant,regular
+4763031090,name,Nest Burger,regular
+4763031091,amenity,restaurant,regular
+4763031091,name,Master Wok,regular
+4773348837,historic,memorial,regular
+4773348837,name,Plano Veterans Vietnam Memorial,regular
+4773407694,amenity,cafe,regular
+4773407694,name,Starbucks,regular
+4773407695,amenity,post_box,regular
+4773407695,name,UPS Store,regular
+4773407696,name,Endzone Haircuts,regular
+4773407696,shop,hairdresser,regular
+4773407697,name,Cuban Cigars,regular
+4773407697,shop,tobacco,regular
+4773407708,name,First Cash Advance,regular
+4773407708,office,financial,regular
+4773407709,name,MetroPCS,regular
+4773407709,shop,mobile_phone,regular
+4773407710,name,BT Furnishings,regular
+4773407710,shop,furniture,regular
+4773407711,name,15th And Custer Tire and Service,regular
+4773407711,shop,car_repair,regular
+4773407924,amenity,restaurant,regular
+4773407924,name,Da Wan,regular
+4773407925,amenity,restaurant,regular
+4773407925,name,Raung Thai,regular
+4773407952,name,Petland Plano,regular
+4773407952,shop,pet,regular
+4773407953,amenity,restaurant,regular
+4773407953,name,Kumars,regular
+4773407954,name,Tuesday Morning,regular
+4773407954,shop,houseware,regular
+4773407955,name,Dollar Value Store,regular
+4773407955,shop,variety_store,regular
+4775684104,craft,sculpter,regular
+4775684104,name,Homewood Suites Art Sculpter,regular
+4775765105,amenity,cafe,regular
+4775765105,cuisine,coffee_shop,regular
+4775765105,name,Starbucks,regular
+4775765106,amenity,restaurant,regular
+4775765106,name,Sushi Sakana,regular
+4777145925,amenity,fountain,regular
+4777145925,name,Haggard Park Pond Fountain South,regular
+4777145926,amenity,fountain,regular
+4777145926,name,Haggard Park Pond Fountain North,regular
+4777145959,amenity,restaurant,regular
+4777145959,name,Ye Ole Butcher Shop,regular
+4777172893,name,Pearl Technology Holdings,regular
+4777172893,office,it,regular
+4777172894,name,QuickTrip Maintenance Office,regular
+4777172894,office,company,regular
+4808192667,leisure,pitch,regular
+4808192667,sport,baseball,regular
+4808192668,leisure,pitch,regular
+4808192668,sport,baseball,regular
+4808192669,leisure,pitch,regular
+4808192669,sport,baseball,regular
+4808195460,leisure,playground,regular
+4808195461,leisure,playground,regular
+4808195462,leisure,playground,regular
+4816135684,highway,turning_circle,regular
+4816135685,highway,turning_circle,regular
+4816148994,highway,turning_circle,regular
