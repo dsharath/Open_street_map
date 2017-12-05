@@ -323,5 +323,3 @@ Files:
 `p3project.pdf`:Documentation for the code.
 `READM.md`:  This file.
 
-"# Open_street_map" 
-# p3finalproject
